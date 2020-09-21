@@ -1,0 +1,18 @@
+{
+  "id": "vocal-control",
+  "title": "Vocal Control",
+  "illustration": "/public/data/iot-projects/vocal-control.png",
+  "descr": "L’objectif principal de notre projet était d’arriver à envoyer des commandes vocales à notre carte Arduino via une application Android. Ici, les commandes principales sont l’allumage et l’extinction des LED.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/vocal-control/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "QyW67RnaaPY",
+	  "Code": "https://github.com/institut-galilee/vocal-control"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Cynthia Rajaspera",
+      "Dimitri Ngoyi"
+
+  ]
+}

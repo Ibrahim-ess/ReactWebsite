@@ -1,0 +1,18 @@
+{
+  "id": "2020-smart-box",
+  "title": "2020-smart-box",
+  "illustration": "/public/data/iot-projects/2020-smart-box.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/2020-smart-box/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/2020-smart-box/blob/master/doc/presentation.pdf",
+	  "Video": "z80xEWsMF7I",
+	  "Code": "https://github.com/institut-galilee/2020-smart-box/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Mamadou Korka DIALLO",
+      "Khady Adiama DIEDHIOU",
+      "Kahina MACHOUCHE"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "data-sampling-strategies",
+  "title": "Data Sampling Strategies in IoT Platforms",
+  "illustration": "",
+  "descr": "Extend existing IoT platforms with automatic data sampling strategies.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/",
+	  "Slides": "https://github.com/institut-galilee/",
+	  "Video": "",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+  ]
+}

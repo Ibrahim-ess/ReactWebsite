@@ -1,0 +1,112 @@
+[
+  {
+    "year": 2019,
+    "publications": [
+      {
+        "id": 1,
+        "booktitle": "In proceedings of the 28th international joint conference on artificial intelligence, IJCAI 2019",
+        "authors": "Aomar Osmani and Massinissa Hamidi and Salah Bouhouche",
+        "title": "Monitoring of a Dynamic System Based on Autoencoders",
+        "links": {
+          "pdf": "https://www.ijcai.org/proceedings/2019/254",
+          "slides": "https://roboticsmind.github.io/public/presentations/osmani2019monitoring-oral-14-08-2019.pdf",
+          "code": "https://github.com/hamidimassinissa/vibration-sae"
+        }
+      },
+      {
+        "id": 2,
+        "booktitle": "Knowledge Representation & Reasoning Meets Machine Learning workshop, KR2ML@NeurIPS, 2019",
+        "authors": "Massinissa Hamidi and Aomar Osmani",
+        "title": "HAR Data Generation Model to Highly Reduce Learning Space",
+        "links": {
+          "pdf": "https://kr2ml.github.io/2019/papers",
+          "code": "https://github.com/alphaequivalence/shl-nas"
+        },
+        "topics": [
+          "ml",
+          "ai"
+        ]
+      },
+      {
+        "id": 3,
+        "booktitle": "In Deep Learning for Human Activity Recognition workshop @IJCAI, 2019",
+        "authors": "Massinissa Hamidi and Aomar Osmani",
+        "title": "Improving Human Activity Recognition with Data Sources Integration",
+        "links": {
+          "pdf": "https://sites.google.com/site/zhangleuestc/deep-learning-for-human-activity-recognition",
+          "slides": "https://roboticsmind.github.io/public/presentations/hamidi2019improving-oral-10-08-2019.pdf",
+          "code": "https://github.com/hamidimassinissa/shl-infrastructure"
+        },
+        "topics": [
+          "ml",
+          "har"
+        ]
+      },
+      {
+        "id": 4,
+        "booktitle": "In the Human Activity Sensing Corpus and Application (HASCA) Book, 2019",
+        "authors": "Aomar Osmani and Massinissa Hamidi",
+        "title": "Bayesian Optimization of Neural Architectures for Human Activity Recognition",
+        "links": {
+          "pdf": "https://www.springer.com/gp/book/9783030130008",
+          "code": "https://github.com/hamidimassinissa/hasca-shl"
+        },
+        "topics": [
+          "ml",
+          "har"
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "publications": [
+      {
+        "id": 5,
+        "booktitle": "In proceedings of the UbiComp/ISWC 2018 Adjunct, Singapore, October 08-12, 2018. ACM 2018",
+        "authors": "Aomar Osmani and Massinissa Hamidi",
+        "title": "Hybrid and Convolutional Neural Networks for Locomotion Recognition",
+        "links": {
+          "pdf": "https://dl.acm.org/citation.cfm?id=3267520",
+          "code": "https://github.com/hamidimassinissa/hasca-shl",
+          "poster": "https://roboticsmind.github.io/public/research/ubicomp-2018/osmani2018hybrid_POSTER.pdf"
+        },
+        "topics": [
+          "ml",
+          "har"
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "publications": [
+      {
+        "id": 6,
+        "booktitle": "In 2017 AAAI Fall Symposia, Arlington, Virginia, USA, November 9-11, 2017. AAAI Press 2017",
+        "authors": "Aomar Osmani and Massinissa Hamidi and Abdelghani Chibani",
+        "title": "Platform for Assessment and Monitoring of Infant Comfort",
+        "links": {
+          "pdf": "https://aaai.org/ocs/index.php/FSS/FSS17/paper/view/15989/15285",
+          "code": "https://github.com/hamidimassinissa/infant-cries-algo-eval"
+        },
+        "topics": [
+          "ml"
+        ]
+      },
+      {
+        "id": 7,
+        "booktitle": "In the 29th IEEE International Conference on Tools with Artificial Intelligence, ICTAI 2017, Boston, MA, USA, November 6-8, 2017. IEEE Computer Society 2017",
+        "authors": "Aomar Osmani and Massinissa Hamidi and Abdelghani Chibani",
+        "title": "Machine Learning Approach for Infant Cry Interpretation",
+        "links": {
+          "pdf": "https://ieeexplore.ieee.org/document/8371941",
+          "code": "https://github.com/hamidimassinissa/infant-cries-ml"
+        },
+        "topics": [
+          "ml"
+        ]
+      }
+    ]
+  }
+]

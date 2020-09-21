@@ -1,0 +1,16 @@
+{
+  "id": "2019-lyapunov-stability",
+  "title": "2019-lyapunov-stability",
+  "illustration": "",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/lyapunov-stability/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/lyapunov-stability/blob/master/doc/presentation.pdf",
+	  "Video": "",
+	  "Code": "https://github.com/institut-galilee/lyapunov-stability/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Seck Ndiagna"
+  ]
+}

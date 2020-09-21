@@ -1,0 +1,20 @@
+{
+  "id": "deathly-hallows",
+  "title": "Advanced Connected Captor Suit",
+  "illustration": "/public/data/iot-projects/deathly-hallows.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/iot-projects/blob/master/A2CS/docs/A2CS-Rapport.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/iot-projects/blob/master/A2CS/docs/A2CS_Presentation_sansvideo.pptx",
+	  "Video": "Ze24vciclfI",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Elise Auvray",
+      "Ian Ducrot",
+      "Aurélien Amar",
+      "Renan Gimenez",
+      "François-Xavier Hippert"
+  ]
+}

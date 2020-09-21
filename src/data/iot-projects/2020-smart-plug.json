@@ -1,0 +1,17 @@
+{
+  "id": "2020-smart-plug",
+  "title": "2020-smart-plug",
+  "illustration": "/public/data/iot-projects/2020-smart-plug.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/presentation.pdf",
+	  "Video": "PKjuCphBC3A",
+	  "Code": "https://github.com/institut-galilee/2020-smart-plug/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Amine YAHOUNI",
+      "Eugenie IACOBICIUC"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "vibration-data-1",
+  "title": "Deep Learning-Based Diagnosis of Turbocompressors Faulty Behavior from Vibration Data",
+  "illustration": "",
+  "descr": "",
+  "links": {
+	  "PDF": "",
+	  "Slides": "",
+	  "Video": "",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Aomar Osmani",
+      "Massinissa Hamidi",
+      "Salah Bouhouche"
+  ]
+}

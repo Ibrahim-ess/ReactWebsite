@@ -1,0 +1,18 @@
+{
+  "id": "2020-turbo-guacamole",
+  "title": "2020-turbo-guacamole",
+  "illustration": "/public/data/iot-projects/2020-turbo-guacamole.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/2020-turbo-guacamole/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/2020-turbo-guacamole/blob/master/doc/presentation.pdf",
+	  "Video": "zR677AIHEu8",
+	  "Code": "https://github.com/institut-galilee/2020-turbo-guacamole/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Alexis JIANG",
+      "Hariss MOHAMMAD",
+      "Steave SUN"
+  ]
+}

@@ -1,0 +1,124 @@
+[
+    {
+        "projects": [
+            "2020-legendary-enigma.json",
+            "2020-SmartHomeJA.json",
+            "2020-potential-eureka.json",
+            "2020-Smart-Lock.json",
+            "2020-Karadik.json",
+            "2020-STORM.json",
+            "2020-FACA.json",
+            "2020-smart-box.json",
+            "2020-WITHER.json",
+            "2020-turbo-guacamole.json",
+            "2020-smart-plug.json",
+            "2020-captain-planet.json",
+            "2020-IotExplorer.json"
+        ],
+        "title": "Institut Galilée -- Master 1 2020"
+    },
+
+    {
+        "projects": [
+            "2019-coriolis-effect.json",
+            "2019-dam.json",
+            "2019-fos.json",
+            "2019-galileo-s-internet-of-things.json",
+            "2019-les-licornes.json",
+            "2019-lofe.json",
+            "2019-lyapunov-stability.json",
+            "2019-nasta.json",
+            "2019-power.json"
+        ],
+        "title": "Institut Galilée -- Licence 3 2019"
+    },
+
+    {
+        "projects": [
+            "2019-anti-theft.json",
+            "2019-boulette.json",
+            "2019-connected-chair.json",
+            "2019-hello-water.json",
+            "2019-make-tomorrow-better.json",
+            "2019-mapay.json",
+            "2019-pangolin.json",
+            "2019-peaky-blinders.json",
+            "2019-team-of-things.json"
+        ],
+        "title": "Efrei -- 4ème Année 2019"
+    },
+    {
+        "projects": [
+            "infant-cries-recognition.json",
+            "infant-cries-recognition-2.json",
+            "vibration-data-1.json",
+            "conduite-gestion-projet-1.json",
+            "extended-shl.json",
+            "data-sampling-strategies.json",
+            "zigbee-based-home-automation.json"
+        ],
+        "title": "Proposed subjects"
+    },
+    {
+        "projects": [
+            "shl-to-platform.json",
+            "ubidots-based-iot-use-case.json"
+        ],
+        "title": "Platform"
+    },
+    {
+        "projects": [
+            "guessless.json",
+            "immersion.json",
+            "subtee.json",
+            "n-printer.json"
+        ],
+        "title": "Entertainment"
+    },
+    {
+        "projects": [
+            "smart-mirror.json",
+            "deathly-hallows.json",
+            "smart-energy.json",
+            "smart-door.json",
+            "heated-mug.json",
+            "smart-home.json",
+            "smart-weather-station.json",
+            "iot-labs-2018.json",
+            "iot-labs-2018-1.json",
+            "iot-labs-2018-2.json",
+            "iot-labs-2018-3.json",
+            "smart-security-alarm.json",
+            "jarvis-based-smart-assistant.json",
+            "dfc-project.json",
+            "smart-lamp.json",
+            "gas-detector.json",
+            "vocal-control.json",
+            "smart-thermostat.json",
+            "fire-alarm.json"
+        ],
+        "title": "Smart home"
+    },
+    {
+        "projects": [
+            "baby-phone.json",
+            "digiscript.json",
+            "smyn4000.json"
+        ],
+        "title": "Health care/well being"
+    },
+    {
+        "projects": [
+            "ava.json",
+            "secret-garden.json",
+            "smart-parking.json",
+            "anti-collision-car.json",
+            "smart-waiting-line.json",
+            "smart-parking-replica.json",
+            "connected-plant.json",
+            "smart-trash.json",
+            "toll-tax-barrier.json"
+        ],
+        "title": "Smart city"
+    }
+]

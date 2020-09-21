@@ -1,0 +1,19 @@
+{
+  "id": "jarvis-based-smart-assistant",
+  "title": "Jarvis-Based Smart Assistant",
+  "illustration": "/public/data/iot-projects/jarvis-based-smart-assistant.png",
+  "descr": "Our choice of connected object was towards the configuration of a personal assistant like Google Home, Alexa, Siri",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/iot-project/blob/master/jarvis-based-smart-assistant.pdf",
+	  "Slides": "",
+	  "Video": "XRGRwMrI4VQ",
+	  "Code": "https://github.com/efrei-paris-sud/iot-project"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Enzo Besnainou",
+      "Marcus Lehembre",
+      "Thomas Lenfant",
+      "Eloi Poyet"
+  ]
+}

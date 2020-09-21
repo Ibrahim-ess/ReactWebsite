@@ -1,0 +1,18 @@
+{
+  "id": "iot-labs-2018-3",
+  "title": "IoT Labs 2018",
+  "illustration": "/public/data/iot-projects/iot-labs-2018-3.png",
+  "descr": "ESP32 is a series of low cost, low power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth.",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/iot-lab-2018/blob/master/report-3.pdf",
+	  "Slides": "",
+	  "Video": "",
+	  "Code": "https://github.com/efrei-paris-sud/iot-lab-2018"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "XiJia Wang",
+      "ChengSi Liu",
+      "Shuo CUI"
+  ]
+}

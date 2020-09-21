@@ -1,0 +1,47 @@
+.fixe {
+  width: 25%;
+  min-height: 100%;
+  float: left;
+  padding-left: 6%;
+  overflow-y: auto;
+}
+
+.border {
+  position: absolute;
+  border-right: 1px solid rgb(109, 13, 13);
+  width: 17.5%;
+  height: 30%;
+  margin-top: 4%;
+}
+
+.publication-chercheur .osmani {
+  width: 175px;
+}
+
+.publication-chercheur .name {
+  padding-left: 12%;
+  font-weight: 600;
+  margin: 3% 0 3% 0;
+  font-size: 18px;
+}
+
+.publication-chercheur .work {
+  margin: 0;
+  width: 80%;
+  font-size: 14.5px;
+}
+
+.chercheur-contact a {
+  text-decoration: none;
+}
+
+.chercheur-contact .image {
+  width: 20px;
+  height: 22px;
+  padding-left: 5px;
+}
+
+.linkedin > .image {
+  width: 20px;
+  height: 22px;
+}

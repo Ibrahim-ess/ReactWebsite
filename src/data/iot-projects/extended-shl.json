@@ -1,0 +1,15 @@
+{
+  "id": "extended-shl",
+  "title": "xSHL",
+  "illustration": "",
+  "descr": "Dynamicity and evolution characterize IoT environments. ML models are difficult to assess in these conditions and there are no such assessment tools available for research purpose. Future work: allow researcher to test live their data sampling deployment strategies as it is done for example with fit-iot for sensor networks.",
+  "links": {
+	  "PDF": "",
+	  "Slides": "",
+	  "Video": "",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "n-printer",
+  "title": "New Printer",
+  "descr": "Dans un contexte de désinformation, notre équipe a mis au point une solution : N-Printer. L'objet connecté qui n'imprime que les informations dont vous avez besoin !",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/n-printer/blob/master/rapport-IOT-officiel.pdf",
+	  "Slides": "",
+	  "Video": "",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Mehdi Bahnis",
+      "Clément Ballam",
+      "Sonia Belaidi",
+      "Mohamed Boukhemkham",
+      "Julien Burin"
+  ]
+}

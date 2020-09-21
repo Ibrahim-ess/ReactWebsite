@@ -1,0 +1,18 @@
+.c-about {
+    padding-top: 1%;
+	
+	background-color: var(--bg-color) ;
+	color : var(--font-color) ;
+	// list-style-type: none;
+}
+
+.c-about-informations {
+    padding-left: 20px;
+    padding-top : 5px;
+}
+
+.c-about > h1 {
+	font-size: 40px;
+	font-weight: 450;
+	color: var(--primary-color) ;
+}

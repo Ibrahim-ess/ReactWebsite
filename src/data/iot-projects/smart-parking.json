@@ -1,0 +1,17 @@
+{
+  "id": "smart-parking",
+  "title": "Smart parking system",
+  "descr": "Ce projet consiste à concevoir un système de parking intelligent qui met à jour automatiquement le statut actuel des places du parking.",
+  "links": {
+	  "PDF": "",
+	  "Slides": "",
+	  "Video": "BpSn7QURW58",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+    "Rachid Azacri",
+    "Wahiba Boudjou",
+    "Fatma Makouri"
+  ]
+}

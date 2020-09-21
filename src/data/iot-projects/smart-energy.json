@@ -1,0 +1,19 @@
+{
+  "id": "smart-energy",
+  "title": "Smart Energy",
+  "illustration": "/public/data/iot-projects/smart-energy.png",
+  "descr": "Le but de ce projet est de permettre à différents organismes de pouvoir récupérer des données, pour en faire une étude statistique afin d’évaluer leur consommation d’énergie.",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/smart-energy/blob/master/smart-energy.pdf",
+	  "Slides": "",
+	  "Video": "ILSXAU_BGzc",
+	  "Code": "https://github.com/efrei-paris-sud/smart-energy"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Victorine Ea",
+      "Corentin Daillie",
+      "Perla Nomenyo",
+      "Vincent Kolin"
+  ]
+}

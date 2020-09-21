@@ -1,0 +1,18 @@
+{
+  "id": "2019-nasta",
+  "title": "2019-nasta",
+  "illustration": "/public/data/iot-projects/2019-nasta.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/nasta/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/nasta/blob/master/doc/presentation.pdf",
+	  "Video": "T2l240AnbzM",
+	  "Code": "https://github.com/institut-galilee/nasta/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+    "Nait Saada Tarek",
+    "Messaoudi Nassim",
+    "Jean-Pierre Marc"
+  ]
+}

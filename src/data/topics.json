@@ -1,0 +1,33 @@
+[
+    {
+      "id": "gal",
+      "title": "Institut Galilée",
+      "tag": "Galilée",
+      "color": "#8acb88"
+    },
+    {
+      "id": "efr",
+      "title": "Efrei Paris",
+      "tag": "Efrei",
+      "color": "#ffbf46"
+    },
+    {
+      "id": "m2",
+      "title": "Master 2",
+      "tag": "Master 2",
+      "color": "#b231ff"
+    },
+    {
+      "id": "m1",
+      "title": "Master 1",
+      "tag": "Master 1",
+      "color": "#b9314f"
+    },
+    {
+      "id": "l3",
+      "title": "Licence 3",
+      "tag": "Licence 3",
+      "color": "#6f8695"
+    }
+  ]
+

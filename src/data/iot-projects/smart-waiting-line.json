@@ -1,0 +1,19 @@
+{
+  "id": "smart-waiting-line",
+  "title": "Smart waiting line",
+  "illustration": "/public/data/iot-projects/smart-waiting-line.png",
+  "descr": "Vous en avez marre des disputes qui ont lieu chaque fois entre vos clients, a propos du prochain qui sera coiffé; la file d’attente intelligente est votre solution.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/smart-waiting-line/blob/master/Documents/versionfinal.pdf",
+	  "Slides": "https://github.com/institut-galilee/smart-waiting-line/blob/master/Documents/presentation.pdf",
+	  "Video": "wWZWdlwNeYc",
+	  "Code": "https://github.com/institut-galilee/smart-waiting-line"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+    "Achraf Ben youssef",
+    "Mohamed Chahine Fredj",
+    "Ahlam Lebsir",
+    "Fatah Larfi"
+  ]
+}

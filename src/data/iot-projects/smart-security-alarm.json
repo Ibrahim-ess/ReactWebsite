@@ -1,0 +1,17 @@
+{
+  "id": "smart-security-alarm",
+  "title": "Smart Security Alarm",
+  "illustration": "/public/data/iot-projects/smart-security-alarm.png",
+  "descr": "Système d'alarme intelligent basé sur la reconnaissance faciale.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/smart-security-alarm/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "x1CnxpXvpSQ",
+	  "Code": "https://github.com/institut-galilee/smart-security-alarm"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Abderrahmen Mrabet",
+      "Nabil Ameziane"
+  ]
+}

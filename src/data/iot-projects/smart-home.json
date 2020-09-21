@@ -1,0 +1,17 @@
+{
+  "id": "smart-home",
+  "title": "Smart Home",
+  "illustration": "/public/data/iot-projects/smart-home.png",
+  "descr": "Maison connectée qui comprend plusieurs fonctionnalités ; Une fonctionnalité dite de sécurité (code d'accès), une fonctionnalité portant sur le coté pratique de la maison (ouverture du portail ou du garage) et enfin une fonctionnalité «superficielle» permettant de contrôler les lumières de chez soi.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/smart-home/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "k-GLO7jyLLo",
+	  "Code": "https://github.com/institut-galilee/smart-home"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Hanae Seddiki",
+      "Nissrine Chaouqi"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "smart-parking-replica",
+  "title": "Smart Parking - a small-scale replica",
+  "illustration": "/public/data/iot-projects/smart-parking-replica.png",
+  "descr": "Notre projet consiste à réaliser une maquette d’un parking intelligent qui assure un fonctionnement avec la carte Arduino et plusieurs capteur.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/smart-parking-replica/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "Ot8qj7TTOr0",
+	  "Code": "https://github.com/institut-galilee/smart-parking-replica"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Farid Meziane",
+      "Ahcene Rahmani"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ubidots-based-iot-use-case",
+  "title": "Ubidots-Based Use-Case",
+  "illustration": "/public/data/iot-projects/ubidots-based-iot-use-case.png",
+  "descr": "Le but de ce projet est de permettre à différents organismes de pouvoir récupérer des données, pour en faire une étude statistique afin d’évaluer leur consommation d’énergie.",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/ubidots-based-iot-use-case/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "azzvAo2_7t4",
+	  "Code": "https://github.com/efrei-paris-sud/ubidots-based-iot-use-case"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "André Jiménez",
+      "Gala Ramos",
+      "Nicolas Duchemann",
+      "Youssef Kriouile"
+  ]
+}

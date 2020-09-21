@@ -1,0 +1,18 @@
+{
+  "id": "2019-lofe",
+  "title": "2019-lofe",
+  "illustration": "/public/data/iot-projects/2019-lofe.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/lofe/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/lofe/blob/master/doc/presentation.pdf",
+	  "Video": "pWWtaWAN0y8",
+	  "Code": "https://github.com/institut-galilee/lofe/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Hadj Ali Lounas",
+    "Djallali Ferroudja",
+    "Hamiche Lotfi"
+  ]
+}

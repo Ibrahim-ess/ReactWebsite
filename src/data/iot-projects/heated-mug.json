@@ -1,0 +1,18 @@
+{
+  "id": "heated-mug",
+  "title": "Heated Mug",
+  "illustration": "/public/data/iot-projects/heated-mug.png",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/heated-mug/blob/master/Docs/RapportFinaleHeatedMug.pdf",
+	  "Slides": "https://github.com/institut-galilee/heated-mug/blob/master/Docs/Pr%C3%A9sentationHeatedMug.pdf",
+	  "Video": "wXlezfhtcMs",
+	  "Code": "https://github.com/institut-galilee/heated-mug"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+    "Hamza Maazouzi",
+    "Driss Hachemi",
+    "Hicham Mahroug",
+    "Seddik Boukhris"
+  ]
+}

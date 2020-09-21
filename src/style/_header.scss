@@ -1,0 +1,56 @@
+.c-header {
+  padding: 0px 0;
+  overflow: hidden;
+  //height: 60px;
+  border-bottom: 1px solid white;
+
+  &__title {
+    position: relative;
+    //padding-left: 40px+18px;
+  }
+
+  &__logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  &__title-image {
+    height: 60px;
+    width: 75px;
+    margin-left: 10px;
+  }
+
+  .nightmode {
+    height: 35px;
+    width: 40px;
+    margin-top: 12px;
+    margin-right: 8%;
+    float:right;
+    cursor: pointer;
+    transition: all 1s linear;
+  }
+
+  &__menu-container {
+    padding-top: 12px;
+  }
+
+  &__menu {
+    overflow: auto;
+    font-size: 23px;
+  }
+
+  &__menu-item {
+    float: left;
+    padding: 12px 0;
+    margin-right: 35px;
+    text-decoration: none;
+    display: inline-block;
+  }
+}
+
+@media (max-width: 768px) {
+  .c-header {
+    padding: 10px 0;
+  }
+}

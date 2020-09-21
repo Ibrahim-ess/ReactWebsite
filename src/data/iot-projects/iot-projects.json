@@ -1,0 +1,1639 @@
+[
+  {
+    "projects": [
+      {
+        "id": "2020-legendary-enigma",
+        "title": "2020-legendary-enigma",
+        "illustration": "2020-legendary-enigma.png",
+        "descr": "",
+        "links": {
+          "PDF": "//github.com/institut-galilee/2020-legendary-enigma/blob/master/doc/report.pdf",
+          "Slides": "//github.com/institut-galilee/2020-legendary-enigma/blob/master/doc/presentation.pdf",
+          "Video": "S7bAHlcq93Y",
+          "Code": "https://github.com/institut-galilee/2020-legendary-enigma/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Minh Hao LE"
+        ]
+      },
+      {
+        "id": "2020-SmartHomeJA",
+        "title": "2020-SmartHomeJA",
+        "illustration": "2020-SmartHomeJA.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-SmartHomeJA/blob/master/doc/presentation.pdf",
+          "Video": "Yi7izP-IfhY",
+          "Code": "https://github.com/institut-galilee/2020-SmartHomeJA/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Julian CHAMBRIER",
+          "Ammar ALSADIK"
+        ]
+      },
+      {
+        "id": "2020-potential-eureka",
+        "title": "2020-potential-eureka",
+        "illustration": "2020-potential-eureka.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-potential-eureka/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-potential-eureka/blob/master/doc/presentation.pdf",
+          "Video": "36WNWxsm3vQ",
+          "Code": "https://github.com/institut-galilee/2020-potential-eureka/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Faïza BERHILI",
+          "Emiliano BOUSSAC"
+        ]
+      },
+      {
+        "id": "2020-Smart-Lock",
+        "title": "2020-Smart-Lock",
+        "illustration": "2020-Smart-Lock.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-Smart-Lock/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-Smart-Lock/blob/master/doc/presentation.pdf",
+          "Video": "krarxLyfjm4",
+          "Code": "https://github.com/institut-galilee/2020-Smart-Lock/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Aïssata KEITA",
+          "Michel Davel YABA BILONGO",
+          "Abdeldjalil KOUACHI"
+        ]
+      },
+      {
+        "id": "2020-Karadik",
+        "title": "2020-Karadik",
+        "illustration": "2020-Karadik.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-Karadik/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-Karadik/blob/master/doc/presentation.pdf",
+          "Video": "kYA4_jZysQE",
+          "Code": "https://github.com/institut-galilee/2020-Karadik/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Nady SADDIK",
+          "Alexandre KARAKAS"
+        ]
+      },
+      {
+        "id": "2020-STORM",
+        "title": "2020-STORM",
+        "illustration": "2020-STORM.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-STORM/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-STORM/blob/master/doc/presentation.pdf",
+          "Video": "hLFjB13NrGs",
+          "Code": "https://github.com/institut-galilee/2020-STORM/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Sébastien WU",
+          "Sayanthan SATHIANATHAN",
+          "Tomasz DUDEK"
+        ]
+      },
+      {
+        "id": "2020-FACA",
+        "title": "2020-FACA",
+        "illustration": "2020-FACA.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-FACA/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-FACA/blob/master/doc/presentation.pdf",
+          "Video": "DdHNMxLVIqY",
+          "Code": "https://github.com/institut-galilee/2020-FACA/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Adrien CAVALIERI",
+          "Antony FOURCHAULT"
+        ]
+      },
+      {
+        "id": "2020-smart-box",
+        "title": "2020-smart-box",
+        "illustration": "2020-smart-box.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-smart-box/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-smart-box/blob/master/doc/presentation.pdf",
+          "Video": "z80xEWsMF7I",
+          "Code": "https://github.com/institut-galilee/2020-smart-box/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Mamadou Korka DIALLO",
+          "Khady Adiama DIEDHIOU",
+          "Kahina MACHOUCHE"
+        ]
+      },
+      {
+        "id": "2020-WITHER",
+        "title": "2020-WITHER",
+        "illustration": "2020-WITHER.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-WITHER/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-WITHER/blob/master/doc/presentation.pdf",
+          "Video": "eaNtIvoYkC8",
+          "Code": "https://github.com/institut-galilee/2020-WITHER/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Haseeb JAVAID",
+          "Mathieu JUGI",
+          "Clément ZHOU"
+        ]
+      },
+      {
+        "id": "2020-turbo-guacamole",
+        "title": "2020-turbo-guacamole",
+        "illustration": "2020-turbo-guacamole.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-turbo-guacamole/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-turbo-guacamole/blob/master/doc/presentation.pdf",
+          "Video": "zR677AIHEu8",
+          "Code": "https://github.com/institut-galilee/2020-turbo-guacamole/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Alexis JIANG",
+          "Hariss MOHAMMAD",
+          "Steave SUN"
+        ]
+      },
+      {
+        "id": "2020-smart-plug",
+        "title": "2020-smart-plug",
+        "illustration": "2020-smart-plug.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-smart-plug/blob/master/doc/presentation.pdf",
+          "Video": "PKjuCphBC3A",
+          "Code": "https://github.com/institut-galilee/2020-smart-plug/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Amine YAHOUNI",
+          "Eugenie IACOBICIUC"
+        ]
+      },
+      {
+        "id": "2020-captain-planet",
+        "title": "2020-captain-planet",
+        "illustration": "",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-captain-planet/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-captain-planet/blob/master/doc/presentation.pdf",
+          "Video": "L1CjuapWXSk",
+          "Code": "https://github.com/institut-galilee/2020-captain-planet/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Heytem BOUMAZA",
+          "Rémi PHYU THANT THAR"
+        ]
+      },
+      {
+        "id": "2020-IotExplorer",
+        "title": "2020-IotExplorer",
+        "illustration": "",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/2020-IotExplorer/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/2020-IotExplorer/blob/master/doc/presentation.pdf",
+          "Video": "",
+          "Code": "https://github.com/institut-galilee/2020-IotExplorer/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": []
+      }
+    ],
+    "title": "Institut Galilée -- Master 1 2020"
+  },
+  {
+    "projects": [
+      {
+        "id": "2019-coriolis-effect",
+        "title": "2019-coriolis-effect",
+        "illustration": "2019-coriolis-effect.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/coriolis-effect/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/coriolis-effect/blob/master/doc/presentation.pdf",
+          "Video": "TFp4kmfiozA",
+          "Code": "https://github.com/institut-galilee/coriolis-effect/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Benhalima Mustapha",
+          "Mokhtari Karim"
+        ]
+      },
+      {
+        "id": "2019-dam",
+        "title": "2019-dam",
+        "illustration": "2019-dam-2.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/dam/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/dam/blob/master/doc/presentation.pdf",
+          "Video": "xN-VRjuBtvQ",
+          "Code": "https://github.com/institut-galilee/dam/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Benabed Djahida",
+          "Kessaï Aghilas",
+          "Sanvee Myriam"
+        ]
+      },
+      {
+        "id": "2019-fos",
+        "title": "2019-fos",
+        "illustration": "2019-fos.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/fos/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/fos/blob/master/doc/presentation.pdf",
+          "Video": "z-aGsvBhWqA",
+          "Code": "https://github.com/institut-galilee/fos/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Idrici Slimane",
+          "Ouhbad Omar",
+          "Zhu Fabien"
+        ]
+      },
+      {
+        "id": "2019-galileo-s-internet-of-things",
+        "title": "2019-galileo-s-internet-of-things",
+        "illustration": "2019-galileo-s-internet-of-things-2.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/galileo-s-internet-of-things/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/galileo-s-internet-of-things/blob/master/doc/presentation.pdf",
+          "Video": "jGKLymgVXd0",
+          "Code": "https://github.com/institut-galilee/galileo-s-internet-of-things/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Simonnet Adrien",
+          "Wu Pierre",
+          "Jeton Alex"
+        ]
+      },
+      {
+        "id": "2019-les-licornes",
+        "title": "2019-les-licornes",
+        "illustration": "2019-les-licornes-2.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/les-licornes/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/les-licornes/blob/master/doc/presentation.pdf",
+          "Video": "d58UPBtYGLY",
+          "Code": "https://github.com/institut-galilee/les-licornes/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Zhang Bingqin",
+          "Dechaumet Léo",
+          "Bouziane Hajar"
+        ]
+      },
+      {
+        "id": "2019-lofe",
+        "title": "2019-lofe",
+        "illustration": "2019-lofe.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/lofe/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/lofe/blob/master/doc/presentation.pdf",
+          "Video": "pWWtaWAN0y8",
+          "Code": "https://github.com/institut-galilee/lofe/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Hadj Ali Lounas",
+          "Djallali Ferroudja",
+          "Hamiche Lotfi"
+        ]
+      },
+      {
+        "id": "2019-lyapunov-stability",
+        "title": "2019-lyapunov-stability",
+        "illustration": "",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/lyapunov-stability/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/lyapunov-stability/blob/master/doc/presentation.pdf",
+          "Video": "",
+          "Code": "https://github.com/institut-galilee/lyapunov-stability/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Seck Ndiagna"
+        ]
+      },
+      {
+        "id": "2019-nasta",
+        "title": "2019-nasta",
+        "illustration": "2019-nasta.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/nasta/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/nasta/blob/master/doc/presentation.pdf",
+          "Video": "T2l240AnbzM",
+          "Code": "https://github.com/institut-galilee/nasta/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Nait Saada Tarek",
+          "Messaoudi Nassim",
+          "Jean-Pierre Marc"
+        ]
+      },
+      {
+        "id": "2019-power",
+        "title": "2019-power",
+        "illustration": "",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/power/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/institut-galilee/power/blob/master/doc/presentation.pdf",
+          "Video": "",
+          "Code": "https://github.com/institut-galilee/power/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Jahangir stephane"
+        ]
+      }
+    ],
+    "title": "Institut Galilée -- Licence 3 2019"
+  },
+  {
+    "projects": [
+      {
+        "id": "2019-anti-theft",
+        "title": "2019-anti-theft",
+        "illustration": "2019-anti-theft.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/anti-theft/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/anti-theft/blob/master/doc/presentation.pdf",
+          "Video": "QIStBXq7N3M",
+          "Code": "https://github.com/efrei-paris-sud/anti-theft/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Hamza Charai",
+          "Mingming Lu",
+          "Jiazhong Yin"
+        ]
+      },
+      {
+        "id": "2019-boulette",
+        "title": "2019-boulette",
+        "illustration": "",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/team-boulette/blob/master/report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/team-boulette/blob/master/presentation.pdf",
+          "Video": "",
+          "Code": "https://github.com/efrei-paris-sud/team-boulette/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": []
+      },
+      {
+        "id": "2019-connected-chair",
+        "title": "2019-connected-chair",
+        "illustration": "",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/connected-chair/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/connected-chair/blob/master/doc/presentation.pptx",
+          "Video": "",
+          "Code": "https://github.com/efrei-paris-sud/connected-chair/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Etienne Famery",
+          "Amandhi Kahawita",
+          "Sirine Nouri"
+        ]
+      },
+      {
+        "id": "2019-hello-water",
+        "title": "2019-hello-water",
+        "illustration": "2019-hello-water.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/hello-water/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/hello-water/blob/master/doc/presentation.pdf",
+          "Video": "8Uj7ILCjqS0",
+          "Code": "https://github.com/efrei-paris-sud/hello-water/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "LI YING",
+          "MI YAOLI",
+          "ZHU YANWU"
+        ]
+      },
+      {
+        "id": "2019-make-tomorrow-better",
+        "title": "2019-make-tomorrow-better",
+        "illustration": "",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/MakeTomorrowBetter/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/MakeTomorrowBetter/blob/master/doc/presentation.pdf",
+          "Video": "",
+          "Code": "https://github.com/efrei-paris-sud/MakeTomorrowBetter/tree/master/src/"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Hatem Benhlal",
+          "Emna Touihri"
+        ]
+      },
+      {
+        "id": "2019-mapay",
+        "title": "2019-mapay",
+        "illustration": "2019-mapay.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/MaPaY/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/MaPaY/blob/master/doc/presentation.pdf",
+          "Video": "Ao68964f5CA",
+          "Code": "https://github.com/efrei-paris-sud/MaPaY/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Marion Burg",
+          "Pierre Corbay",
+          "Aymeric Fröhlicher"
+        ]
+      },
+      {
+        "id": "2019-pangolin",
+        "title": "2019-pangolin",
+        "illustration": "2019-pangolin-2.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/pangolin/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/pangolin/blob/master/doc/presentation.pdf",
+          "Video": "clUfnJtiwXw",
+          "Code": "https://github.com/efrei-paris-sud/pangolin/tree/master/src/"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Jean-François Le Gal",
+          "Charlotte Gex",
+          "Arthur Maigrot",
+          "Tom Chemaly"
+        ]
+      },
+      {
+        "id": "2019-peaky-blinders",
+        "title": "2019-peaky-blinders",
+        "illustration": "2019-peaky-blinders-2.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/peaky-blinders/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/peaky-blinders/blob/master/doc/presentation.pdf",
+          "Video": "StJgrFGZJbg",
+          "Code": "https://github.com/efrei-paris-sud/peaky-blinders/tree/master/src/"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "AGUESSY Brandon",
+          "TACCOLA Alessandro",
+          "VIGUIER Théo"
+        ]
+      },
+      {
+        "id": "2019-team-of-things",
+        "title": "2019-team-of-things",
+        "illustration": "2019-team-of-things.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/team-of-things/blob/master/doc/report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/team-of-things/blob/master/doc/presentation.pdf",
+          "Video": "OkaeQZyURFE",
+          "Code": "https://github.com/efrei-paris-sud/team-of-things/tree/master/src"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Thomas Deffradas",
+          "Xavier Tcheupi-Kamga",
+          "Kevin Wong"
+        ]
+      }
+    ],
+    "title": "Efrei -- 4ème Année 2019"
+  },
+  {
+    "projects": [
+      {
+        "id": "infant-cries-recognition",
+        "title": "IoT-Based Device for Infant Cries Recognition",
+        "illustration": "infant-cries-recognition.png",
+        "descr": "",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Aomar Osmani",
+          "Massinissa Hamidi"
+        ]
+      },
+      {
+        "id": "infant-cries-recognition-2",
+        "title": "Deep Learning-Based Infant Cries Recognition",
+        "illustration": "cries-analysis-pipeline.png",
+        "descr": "",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Massinissa Hamidi",
+          "Aomar Osmani"
+        ]
+      },
+      {
+        "id": "vibration-data-1",
+        "title": "Deep Learning-Based Diagnosis of Turbocompressors Faulty Behavior from Vibration Data",
+        "illustration": "",
+        "descr": "",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Aomar Osmani",
+          "Massinissa Hamidi",
+          "Salah Bouhouche"
+        ]
+      },
+      {
+        "id": "conduite-gestion-projet-1",
+        "title": "A meta and continual learning test-bed",
+        "illustration": "",
+        "descr": "Dans le cadre de l'UE Conduite et Gestion de Projet et du cours IoT (M2), nous proposons aux étudiants de concevoir une architecture logicielle qui servirait à deployer des systèmes d'apprentissage qui rentrent dans le cadre du meta et du continual learning.",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Massinissa Hamidi"
+        ]
+      },
+      {
+        "id": "extended-shl",
+        "title": "xSHL",
+        "illustration": "",
+        "descr": "Dynamicity and evolution characterize IoT environments. ML models are difficult to assess in these conditions and there are no such assessment tools available for research purpose. Future work: allow researcher to test live their data sampling deployment strategies as it is done for example with fit-iot for sensor networks.",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": []
+      },
+      {
+        "id": "data-sampling-strategies",
+        "title": "Data Sampling Strategies in IoT Platforms",
+        "illustration": "",
+        "descr": "Extend existing IoT platforms with automatic data sampling strategies.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/",
+          "Slides": "https://github.com/institut-galilee/",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": []
+      },
+      {
+        "id": "zigbee-based-home-automation",
+        "title": "ZigBee-Based Home Automation",
+        "illustration": "zigbee-based-home-automation.png",
+        "descr": "",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": []
+      }
+    ],
+    "title": "Proposed subjects"
+  },
+  {
+    "projects": [
+      {
+        "id": "shl-to-platform",
+        "title": "IoT-Platform Support for the SHL Dataset",
+        "illustration": "extended-shl.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/DataLogger/blob/master/Report.md",
+          "Slides": "",
+          "Video": "",
+          "Code": "https://github.com/institut-galilee/DataLogger"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Maher Laaroussi",
+          "Mohammed Bensaad",
+          "Khalid Barakat"
+        ]
+      },
+      {
+        "id": "ubidots-based-iot-use-case",
+        "title": "Ubidots-Based Use-Case",
+        "illustration": "ubidots-based-iot-use-case.png",
+        "descr": "Le but de ce projet est de permettre à différents organismes de pouvoir récupérer des données, pour en faire une étude statistique afin d’évaluer leur consommation d’énergie.",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/ubidots-based-iot-use-case/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "azzvAo2_7t4",
+          "Code": "https://github.com/efrei-paris-sud/ubidots-based-iot-use-case"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "André Jiménez",
+          "Gala Ramos",
+          "Nicolas Duchemann",
+          "Youssef Kriouile"
+        ]
+      }
+    ],
+    "title": "Platform"
+  },
+  {
+    "projects": [
+      {
+        "id": "guessless",
+        "title": "Guessless Project",
+        "illustration": "guessless-design.png",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "KpzQHGrhSvI",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "Promotional video :": "(https://www.youtube.com/watch?v=Eu7Z_zg069Q&feature=youtu.be)",
+        "authors": [
+          "Maher LAAROUSSI",
+          "Aboubakr CHOUTTA",
+          "Hamid OUFKIR",
+          "Othmane MCHOUAT"
+        ],
+        "Membres:": [
+          "Maher LAAROUSSI (maher.laaroussi@gmail.com) [MaherLRS](https://github.com/maherlaaroussi \"maherlaaroussi\")",
+          "Aboubakr CHOUTTA (achoutta@gmail.com)  [aboubakrCH](https://github.com/aboubakrCH \"aboubakrCH\")",
+          "Hamid OUFKIR (hamid.oufkir@yahoo.com) [HamidOuF](https://github.com/HamidOuF \"HamidOuF\")",
+          "Othmane MCHOUAT (mchouat.o@gmail.com)  [othmaneMCHOUAT](https://github.com/othmaneMCHOUAT \"othmaneMCHOUAT\")"
+        ],
+        "Nom du produit IoT : Guessless": "![alt text](https://github.com/institut-galilee/guessless/blob/master/docs/Design.png)",
+        "abstract": "Une table connect\u00e9e \u00e0 mettre partout dans la maison, qui permet de reconnaitre n'importe quel objet en cas de trou de m\u00e9moire.  \nDans la cuisine, elle vous fournira toute information essentielle sur un aliment pour ainsi manger plus sainement.  \nEnvie d'avoir une description d\u00e9taill\u00e9e sur un objet ? posez-le sur la table ! Comment \u00e7a marche ? Le principe est simple, il suffit de poser un objet sur la surface plexiglass au dessus du panneau LED pour que la table commence sa d\u00e9t\u00e9ction, une animation vous le notifiera. Une fois la reconnaissance termin\u00e9e, le r\u00e9sultat s'affichera sur l'\u00e9cran se trouvant \u00e0 cot\u00e9 du panneau.  \nVous pourrez afficher plus d'information en appuyant sur le bouton \"Plus\" de l'\u00e9cran.",
+        "Est-ce que \u00e7a marche ?": "Pour l'instant, le projet est en cours de conception mais on vous tiendra au courant de son avancement.",
+        "Dans le futur ?": "Plusieurs am\u00e9liorations sont pr\u00e9vues pour notre table comme la reconnaissance vocale, la comparaison de deux aliments et l'apairage avec un smartphone.",
+        "Help ?": {
+          "Comment lancer l'application ?": "L'application, pour l'instant, se situe dans le r\u00e9pertoire `tensorflow/models/research/object_detection/`."
+        },
+        "Aspects techniques :": {
+          "Reconnaissance d'objet : Tensorflow": "Tensorflow a \u00e9t\u00e9 compil\u00e9 depuis le code source a cause des probl\u00e8mes renconr\u00e9 en l'installant avec la commande `sudo pip3 install tensorflow`.",
+          "Interface graphique de l'application : PyQt5": "L'application qui permet de controller la table sera cod\u00e9 avec la librairie PyQt5 en Python."
+        },
+        "hardware": [
+          "Matrix LED RGB 64x32 Panel",
+          "Raspberry Pi Zero WH",
+          "Raspberry Pi Zero 3 B+",
+          "1x Cam\u00e9ra Raspberry Pi",
+          "2x Power supply (Raspberry & LED Panel)",
+          "C\u00e2bles & fils",
+          "Plaque Plexiglass",
+          "Balance",
+          "2x Haut-Parleurs",
+          "Touchscreen display 7\""
+        ],
+        "Cr\u00e9dits :": [
+          "http://blog.deconinck.info/post/2016/12/19/A-Dirt-Cheap-F-Awesome-Led-Table (L'origine de notre projet)",
+          "https://www.youtube.com/watch?v=npZ-8Nj1YwY (Mise en place de ProtoBuffer, OpenCV et Tensorflow sur un Raspberry)",
+          "https://github.com/EdjeElectronics (Compr\u00e9hension de comment Tensorflow fonctionne)",
+          "https://github.com/hzeller/rpi-rgb-led-matrix (Librairie pour la manipulation du panneau led)",
+          "https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md (Mod\u00e8le utilis\u00e9 pour la reconnaissance d'objet)"
+        ]
+      },
+      {
+        "id": "immersion",
+        "title": "Immersion_projects",
+        "illustration": "immersion.png",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "F6XeG3sRFKY",
+          "Code": ""
+        },
+        "topics": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Heba Kaddouh",
+          "Mohamed Ben Saad",
+          "Jessy Colombo",
+          "Khalid Barakat"
+        ],
+        "Immersion_projects": {
+          "TEAM MEMBRES :": [
+            "Name: Heba Kaddouh [Hebakaddouh](https://github.com/Hebakaddouh)\nEmail : heba.kaddouh@gmail.com",
+            "Name: Mohamed Ben Saad [Mohaabenz](https://github.com/Mohaabenz)\nEmail : bensaad.mohamedamine@gmail.com",
+            "Name: Jessy Colombo [Greyman93](https://github.com/Greyman93)\nEmail : jessy.colombo31@gmail.com",
+            "Name: Khalid Barakat [Giitto](https://github.com/Giitto)\nEmail : bckhalid@hotmail.fr"
+          ],
+          "Name products : Set-up Immersion 3.5D;": ""
+        },
+        "abstract": "LED : Il s'agit d'une bande LED connect\u00e9e \u00e0 votre smartphone en bluetooth que vous pourrez contr\u00f4ler \u00e0 votre guise. \nMais la particularit\u00e9 de cette bande est son mode immersif : Elle s'adaptera automatiquement aux couleurs pr\u00e9dominantes,\nque ce soit pour un jeu video, un film ou juste une image, l'exp\u00e9rience est garantie. Fauteuil: Pour le moment, il s'agit d'une \u00e9volution du set-up qui permettrait une meilleure immersion quelque soit l'action. \nPour cela deux enceintes connect\u00e9es \u00e0 votre p\u00e9riph\u00e9rique en bluetooth ou en filaire ammeneront le son au plus proche de soit. \nAux cot\u00e9es de ces enceintes, nous allons int\u00e9grer des capteurs sonores li\u00e9s \u00e0 notre ESP32 qui permettront d'analyser le son. \nApr\u00e8s analyse, des vibrations seront activ\u00e9 en fonction de l'action. Par exemple, si le bruit d'un balle de pistolet est entendu, \nles moteurs vibrants situ\u00e9s sur le dos de la chaise s'activeronts. Application : L'application permettra de contr\u00f4ler la bande LED. Elle pourra allumer ou \u00e9teindre la bande, activer les differents modes de \n\ncelle-ci, augmenter ou diminuer la lumi\u00e8re ou bien changer la couleur de la bande.\n\nEn fonction de l'avancement du projet, nous pourrons ajouter d'autres am\u00e9lioration, options, composant et objets connect\u00e9s sur notre set-up",
+        "Composants :": [
+          "LED : ESP32, BANDE LED, Capteurs couleur de lumi\u00e8re, cable USB, kit de connection (fil) ;",
+          "Fauteuil : housse massage ou moteurs vibrants, enceinte bluetooth, ESP32, capteurs sonores; "
+        ]
+      },
+      {
+        "id": "subtee",
+        "title": "SubBag by Daverlabs",
+        "illustration": "subtee.png",
+        "descr": "Have ever be in the situation when you cannot talk to someone because they are speaking another language ? With Subtee, we're breaking this barrier by making subtitles directly on your shirt.",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/subtee/blob/master/docs/report.pdf",
+          "Slides": "",
+          "Video": "nFNjeitnJZE",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Nathan Kremer",
+          "Sabri M'barki",
+          "Zixuan Li",
+          "Thomas Cardonne",
+          "Kinh-Vinh Tran"
+        ]
+      },
+      {
+        "id": "n-printer",
+        "title": "New Printer",
+        "illustration": "",
+        "descr": "Dans un contexte de désinformation, notre équipe a mis au point une solution : N-Printer. L'objet connecté qui n'imprime que les informations dont vous avez besoin !",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/n-printer/blob/master/rapport-IOT-officiel.pdf",
+          "Slides": "",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Mehdi Bahnis",
+          "Clément Ballam",
+          "Sonia Belaidi",
+          "Mohamed Boukhemkham",
+          "Julien Burin"
+        ]
+      }
+    ],
+    "title": "Entertainment"
+  },
+  {
+    "projects": [
+      {
+        "id": "smart-mirror",
+        "title": "Sapio Mirror",
+        "illustration": "smart-mirror.png",
+        "descr": "Ces cartes de développement sont très souvent utilisées pour le développement d’objet connecté et sedémocratise de plus en plus dans la création d’objet DIY.",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/Sapio-Mirror/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "jlkdwF_NFnA",
+          "Code": "https://github.com/efrei-paris-sud/Sapio-Mirror"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Pellier Bastien",
+          "Antoine Dombrecht",
+          "Pierre-Marie Frerot",
+          "Maxime Danguin"
+        ]
+      },
+      {
+        "id": "deathly-hallows",
+        "title": "Advanced Connected Captor Suit",
+        "illustration": "",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/iot-projects/blob/master/A2CS/docs/A2CS-Rapport.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/iot-projects/blob/master/A2CS/docs/A2CS_Presentation_sansvideo.pptx",
+          "Video": "Ze24vciclfI",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Elise Auvray",
+          "Ian Ducrot",
+          "Aurélien Amar",
+          "Renan Gimenez",
+          "François-Xavier Hippert"
+        ]
+      },
+      {
+        "id": "smart-energy",
+        "title": "Smart Energy",
+        "illustration": "smart-energy.png",
+        "descr": "Le but de ce projet est de permettre à différents organismes de pouvoir récupérer des données, pour en faire une étude statistique afin d’évaluer leur consommation d’énergie.",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/smart-energy/blob/master/smart-energy.pdf",
+          "Slides": "",
+          "Video": "ILSXAU_BGzc",
+          "Code": "https://github.com/efrei-paris-sud/smart-energy"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Victorine Ea",
+          "Corentin Daillie",
+          "Perla Nomenyo",
+          "Vincent Kolin"
+        ]
+      },
+      {
+        "id": "smart-door",
+        "title": "Smart Door",
+        "illustration": "smart-energy.png",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "WWc-0oCVvxw",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Ameni MBTIBAA",
+          "André OBROCHTA",
+          "Lucky RAHERINIAINA",
+          "Adlane KADRI"
+        ]
+      },
+      {
+        "id": "heated-mug",
+        "title": "Heated Mug",
+        "illustration": "heated-mug.png",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/heated-mug/blob/master/Docs/RapportFinaleHeatedMug.pdf",
+          "Slides": "https://github.com/institut-galilee/heated-mug/blob/master/Docs/Pr%C3%A9sentationHeatedMug.pdf",
+          "Video": "wXlezfhtcMs",
+          "Code": "https://github.com/institut-galilee/heated-mug"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Hamza Maazouzi",
+          "Driss Hachemi",
+          "Hicham Mahroug",
+          "Seddik Boukhris"
+        ]
+      },
+      {
+        "id": "smart-home",
+        "title": "Smart Home",
+        "illustration": "smart-home.png",
+        "descr": "Maison connectée qui comprend plusieurs fonctionnalités ; Une fonctionnalité dite de sécurité (code d'accès), une fonctionnalité portant sur le coté pratique de la maison (ouverture du portail ou du garage) et enfin une fonctionnalité «superficielle» permettant de contrôler les lumières de chez soi.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/smart-home/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "k-GLO7jyLLo",
+          "Code": "https://github.com/institut-galilee/smart-home"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Hanae Seddiki",
+          "Nissrine Chaouqi"
+        ]
+      },
+      {
+        "id": "smart-weather-station",
+        "title": "Smart Weather Station",
+        "illustration": "smart-weather-station.png",
+        "descr": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/smart-weather-station/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "PdSz51LADg0",
+          "Code": "https://github.com/efrei-paris-sud/smart-weather-station"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Massinissa Benaissa",
+          "Johlian Rajaona",
+          "Anis Sardaoui"
+        ]
+      },
+      {
+        "id": "iot-labs-2018",
+        "title": "IoT Labs 2018",
+        "illustration": "",
+        "descr": "Lors de ce projet il nous a été demandé de réaliser le code qui permettra de récupérer les données d’un capteur (BME280) dans un microcontrôleur (ESP32) puis de les envoyer via wifi vers un serveur, cette communication sera basée sur la pile LwIP.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/iot_project/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "zUWDZi-1dOQ",
+          "Code": "https://github.com/institut-galilee/iot_projet"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Romain Carrey",
+          "Magilan Elilthamilvalavan",
+          "Leila Abdelli"
+        ]
+      },
+      {
+        "id": "iot-labs-2018-1",
+        "title": "IoT Labs 2018",
+        "illustration": "iot-labs-2018-1.png",
+        "descr": "Ces cartes de développement sont très souvent utilisées pour le développement d’objet connecté et sedémocratise de plus en plus dans la création d’objet DIY.",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/iot-lab-2018/blob/master/report-1.pdf",
+          "Slides": "",
+          "Video": "WpQCv9mNdDg",
+          "Code": "https://github.com/efrei-paris-sud/iot-lab-2018"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Nathalie Ralijaona",
+          "Armelle Riviere",
+          "Mélanie Roude"
+        ]
+      },
+      {
+        "id": "iot-labs-2018-2",
+        "title": "IoT Labs 2018",
+        "illustration": "",
+        "descr": "Enfin, le projet consiste à utiliser le BME280 avec l’ESP32 afin de collecter des données (températures, pression atmosphérique) et de les envoyer en ligne sur un serveur.",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/iot-lab-2018/blob/master/report-2.pdf",
+          "Slides": "",
+          "Video": "WpQCv9mNdDg",
+          "Code": "https://github.com/efrei-paris-sud/iot-lab-2018"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Marc Ng Kon Tia",
+          "Kajanan Kandavel"
+        ]
+      },
+      {
+        "id": "iot-labs-2018-3",
+        "title": "IoT Labs 2018",
+        "illustration": "iot-labs-2018-3.png",
+        "descr": "ESP32 is a series of low cost, low power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth.",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/iot-lab-2018/blob/master/report-3.pdf",
+          "Slides": "",
+          "Video": "",
+          "Code": "https://github.com/efrei-paris-sud/iot-lab-2018"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "XiJia Wang",
+          "ChengSi Liu",
+          "Shuo CUI"
+        ]
+      },
+      {
+        "id": "smart-security-alarm",
+        "title": "Smart Security Alarm",
+        "illustration": "smart-security-alarm.png",
+        "descr": "Système d'alarme intelligent basé sur la reconnaissance faciale.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/smart-security-alarm/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "x1CnxpXvpSQ",
+          "Code": "https://github.com/institut-galilee/smart-security-alarm"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Abderrahmen Mrabet",
+          "Nabil Ameziane"
+        ]
+      },
+      {
+        "id": "jarvis-based-smart-assistant",
+        "title": "Jarvis-Based Smart Assistant",
+        "illustration": "jarvis-based-smart-assistant.png",
+        "descr": "Our choice of connected object was towards the configuration of a personal assistant like Google Home, Alexa, Siri",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/iot-project/blob/master/jarvis-based-smart-assistant.pdf",
+          "Slides": "",
+          "Video": "XRGRwMrI4VQ",
+          "Code": "https://github.com/efrei-paris-sud/iot-project"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Enzo Besnainou",
+          "Marcus Lehembre",
+          "Thomas Lenfant",
+          "Eloi Poyet"
+        ]
+      },
+      {
+        "id": "dfc-project",
+        "title": "DFC Project",
+        "illustration": "",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "s46CjtpGQ0A",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Abdoulaye Gueye",
+          "Ibrahim Diane",
+          "Serigne Babacar Diop",
+          "Mahmoud Hattabi"
+        ]
+      },
+      {
+        "id": "smart-lamp",
+        "title": "Smart Lamp",
+        "illustration": "",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/smart-lamp/blob/master/docs/PROJ_FINAL_REPORT.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/smart-lamp/blob/master/docs/IoT_Presentation.pptx",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Yudong Sun",
+          "Jianyi Kang",
+          "Kamal Miri"
+        ]
+      },
+      {
+        "id": "gas-detector",
+        "title": "Gas Detector System",
+        "illustration": "",
+        "descr": "This project features a gas detector system useful for keeping a clean and breathable atmosphere inside home or manufacturing facilities.",
+        "links": {
+          "PDF": "https://github.com/HamidiMassinissa/hamidimassinissa.github.io/blob/lipn/_iot_projects/2018-04-28-gas-detector-with-arduino.md",
+          "Slides": "",
+          "Video": "yiRR3M-8kq8",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Salim Djerroud",
+          "Louiza Aoucheta",
+          "Sonia Abbas",
+          "Tinhinane Mecharek"
+        ]
+      },
+      {
+        "id": "vocal-control",
+        "title": "Vocal Control",
+        "illustration": "vocal-control.png",
+        "descr": "L’objectif principal de notre projet était d’arriver à envoyer des commandes vocales à notre carte Arduino via une application Android. Ici, les commandes principales sont l’allumage et l’extinction des LED.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/vocal-control/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "QyW67RnaaPY",
+          "Code": "https://github.com/institut-galilee/vocal-control"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Cynthia Rajaspera",
+          "Dimitri Ngoyi"
+        ]
+      },
+      {
+        "id": "smart-thermostat",
+        "title": "Smart Thermostat",
+        "illustration": "",
+        "descr": "Notre objectif est donc de mettre en place un système qui permettra d’automatiser les réglages du chauffage selon la température.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/smart-thermostat/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "K-egIbBT7dM",
+          "Code": "https://github.com/institut-galilee/smart-thermostat"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Augustin Wagane VARORE",
+          "Amadou DIA"
+        ]
+      },
+      {
+        "id": "fire-alarm",
+        "title": "Fire Alarm",
+        "illustration": "",
+        "descr": "Le but de notre projet est alors de construire une alarme à feu connectée via Ethernet afin d'éviter un incendie ou encore de se protéger contre les dangers liés aux appareils électriques défaillants ou des blocs de prises surchargés.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/fire-alarm/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "ko2ecRQjeY0",
+          "Code": "https://github.com/institut-galilee/fire-alarm"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Ayoub Afrass",
+          "Alpha 1 Bah mamadou"
+        ]
+      }
+    ],
+    "title": "Smart home"
+  },
+  {
+    "projects": [
+      {
+        "id": "baby-phone",
+        "title": "Baby Phone",
+        "illustration": "",
+        "descr": "L'objectif de Bébé Tranquille est de fournir un dispositif technique de couplage asservi entre les parents et leur enfant nouveau-né, à titre expérimental seulement, afin de faciliter la vie des parents.",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/baby-phone/blob/master/docs/l_report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/baby-phone/blob/master/docs/l_Pr%C3%A9sentation.pdf",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Tristan Le bras",
+          "Alexandre Dequeker",
+          "Alexandre Fieux",
+          "Anthony Morali"
+        ]
+      },
+      {
+        "id": "digiscript",
+        "title": "DigiScript",
+        "illustration": "digiscript.png",
+        "descr": "Le digiscript est un traducteur de texte, images, vidéos, pour personnes malvoyantes en braille.",
+        "links": {
+          "PDF": "https://github.com/NicolasDZIURDA/iot-projects/blob/master/Docs/report.pdf",
+          "Slides": "https://github.com/NicolasDZIURDA/iot-projects/blob/master/Docs/Presentation.pptx",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Nicolas Dziurda",
+          "Guillaume Jobin",
+          "Thomas Arpin",
+          "Thomas Cornier",
+          "Steve Demeulemeester"
+        ]
+      },
+      {
+        "id": "smyn4000",
+        "title": "SMYN4000",
+        "illustration": "",
+        "descr": "Chaussure connectée",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": []
+      }
+    ],
+    "title": "Health care/well being"
+  },
+  {
+    "projects": [
+      {
+        "id": "ava",
+        "title": "Eye Truck",
+        "illustration": "ava.png",
+        "descr": "A number of accidents happen on large vehicles each year because the drivers don't notice the cars or pedestrians in the blind zone. Our product is a light stuck on the buses or trucks which reminds the driver when pedestrians or cars are in his blind zone.",
+        "links": {
+          "PDF": "https://github.com/siiscil/iot-projects/blob/master/ava/docs/README.md",
+          "Slides": "https://github.com/siiscil/iot-projects/blob/master/ava/docs/Eye-Truck%20presentation.pdf",
+          "Video": "o_OY4E9pPxE",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Vincent Keller",
+          "Antoine Vo",
+          "Zhu Yongyi"
+        ]
+      },
+      {
+        "id": "secret-garden",
+        "title": "Secret Garden",
+        "descr": "Designing a smart garden, autonomous and small become a real need to give back to the citizen to see germinate their own flowers!",
+        "illustration": "jardin.jpg",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/secret-garden/blob/master/docs/cahier-des-charges.pdf",
+          "Slides": "",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "François Bekemen",
+          "Laurie Cazals",
+          "Jean-Alexis Gagnière",
+          "Xavier Nomicisio",
+          "Sébastien Serre"
+        ]
+      },
+      {
+        "id": "smart-parking",
+        "title": "Smart parking system",
+        "illustration": "",
+        "descr": "Ce projet consiste à concevoir un système de parking intelligent qui met à jour automatiquement le statut actuel des places du parking.",
+        "links": {
+          "PDF": "",
+          "Slides": "",
+          "Video": "BpSn7QURW58",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Rachid Azacri",
+          "Wahiba Boudjou",
+          "Fatma Makouri"
+        ]
+      },
+      {
+        "id": "anti-collision-car",
+        "title": "Voiture Anti-Collision",
+        "illustration": "anti-collision-car.png",
+        "descr": "Le but de ce projet est de réaliser un premier robot radar qui va être capable de cartographier une zone. De plus le radar doit pouvoir se déplacer. En effet, si le radar peut se déplacer alors il pourra recouvrir une plus grande surface.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/anti-collision-car/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "Z7mCfOH_jnA",
+          "Code": "https://github.com/institut-galilee/anti-collision-car"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Abdelkader Moussa"
+        ]
+      },
+      {
+        "id": "smart-waiting-line",
+        "title": "Smart waiting line",
+        "illustration": "smart-waiting-line.png",
+        "descr": "Vous en avez marre des disputes qui ont lieu chaque fois entre vos clients, a propos du prochain qui sera coiffé; la file d’attente intelligente est votre solution.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/smart-waiting-line/blob/master/Documents/versionfinal.pdf",
+          "Slides": "https://github.com/institut-galilee/smart-waiting-line/blob/master/Documents/presentation.pdf",
+          "Video": "wWZWdlwNeYc",
+          "Code": "https://github.com/institut-galilee/smart-waiting-line"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Achraf Ben youssef",
+          "Mohamed Chahine Fredj",
+          "Ahlam Lebsir",
+          "Fatah Larfi"
+        ]
+      },
+      {
+        "id": "smart-parking-replica",
+        "title": "Smart Parking - a small-scale replica",
+        "illustration": "smart-parking-replica.png",
+        "descr": "Notre projet consiste à réaliser une maquette d’un parking intelligent qui assure un fonctionnement avec la carte Arduino et plusieurs capteur.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/smart-parking-replica/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "Ot8qj7TTOr0",
+          "Code": "https://github.com/institut-galilee/smart-parking-replica"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Farid Meziane",
+          "Ahcene Rahmani"
+        ]
+      },
+      {
+        "id": "connected-plant",
+        "title": "Connected Plant",
+        "illustration": "connected-plant.png",
+        "descr": "For this project, we created a system to take care of different kind of plants via the transmission of humidity data coming from the ground.",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/connected-plant/blob/master/connected-plant.pdf",
+          "Slides": "",
+          "Video": "Yb93waFIego",
+          "Code": "https://github.com/efrei-paris-sud/connected-plant"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Shad Mackongo",
+          "Dalil Beldjilali",
+          "Sasha Connier",
+          "Caroline Chiale"
+        ]
+      },
+      {
+        "id": "smart-trash",
+        "title": "Smart Trash",
+        "illustration": "",
+        "descr": "In the interest of ecology, and to make sorting less tedious, we offer you the Smart-Trash. It will take care of your waste itself!",
+        "links": {
+          "PDF": "https://github.com/efrei-paris-sud/smart-trash/blob/master/docs/I_Report.pdf",
+          "Slides": "https://github.com/efrei-paris-sud/smart-trash/blob/master/docs/I_presentation.pdf",
+          "Video": "",
+          "Code": ""
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Louis-Pierre Kauffman",
+          "Jean-François Lesage",
+          "Etienne Wolf",
+          "Thomas Paris"
+        ]
+      },
+      {
+        "id": "toll-tax-barrier",
+        "title": "Toll Tax Barrier",
+        "illustration": "",
+        "descr": "The general idea of this small model is to have an Arduino board that contains a motion sensor and a servo motor in order to control a toll tax barrier.",
+        "links": {
+          "PDF": "https://github.com/institut-galilee/toll-tax-barrier/blob/master/report.pdf",
+          "Slides": "",
+          "Video": "zy3GuaxF_mI",
+          "Code": "https://github.com/institut-galilee/toll-tax-barrier"
+        },
+        "tags": [
+          "ml",
+          "ai"
+        ],
+        "authors": [
+          "Sofiene Benkhemis"
+        ]
+      }
+    ],
+    "title": "Smart city"
+  }
+]

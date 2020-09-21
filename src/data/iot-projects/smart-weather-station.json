@@ -1,0 +1,18 @@
+{
+  "id": "smart-weather-station",
+  "title": "Smart Weather Station",
+  "illustration": "/public/data/iot-projects/smart-weather-station.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/smart-weather-station/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "PdSz51LADg0",
+	  "Code": "https://github.com/efrei-paris-sud/smart-weather-station"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+       "Massinissa Benaissa",
+       "Johlian Rajaona",
+       "Anis Sardaoui"
+  ]
+}

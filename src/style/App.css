@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+#root {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.nightmode{
+  width:20px;
+  height:20px;
+}
+
+

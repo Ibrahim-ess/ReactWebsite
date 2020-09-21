@@ -1,0 +1,61 @@
+.courses-md {
+  padding-top: 1%;
+  background-color: var(--bg-color);
+  color: var(--font-color);
+}
+
+.courses-md > h1 {
+  padding-left: 12%;
+  color: var(--primary-color);
+}
+
+li {
+  list-style-type: circle;
+}
+
+table {
+  margin: 0 auto;
+  width: 90%;
+  // align: center;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+thead {
+  border-bottom: 1px solid #ccc;
+}
+
+td {
+  align: center;
+}
+
+th,
+td {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* specify width of schedule table' columns */
+td:nth-child(1) {
+  width: 15%;
+}
+
+/* the second */
+td:nth-child(2) {
+  width: 15%;
+}
+
+/* the third */
+td:nth-child(3) {
+  width: 60%;
+}
+
+.courses-md a {
+  text-decoration: none;
+  font-style: italic;
+  text-decoration: underline;
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2019-fos",
+  "title": "2019-fos",
+  "illustration": "/public/data/iot-projects/2019-fos.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/fos/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/fos/blob/master/doc/presentation.pdf",
+	  "Video": "z-aGsvBhWqA",
+	  "Code": "https://github.com/institut-galilee/fos/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+    "Idrici Slimane",
+    "Ouhbad Omar",
+    "Zhu Fabien"
+  ]
+}

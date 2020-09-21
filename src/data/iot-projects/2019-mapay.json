@@ -1,0 +1,18 @@
+{
+  "id": "2019-mapay",
+  "title": "2019-mapay",
+  "illustration": "/public/data/iot-projects/2019-mapay.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/MaPaY/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/MaPaY/blob/master/doc/presentation.pdf",
+	  "Video": "Ao68964f5CA",
+	  "Code": "https://github.com/efrei-paris-sud/MaPaY/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Marion Burg",
+      "Pierre Corbay",
+      "Aymeric Fröhlicher"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2019-boulette",
+  "title": "2019-boulette",
+  "illustration": "",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/team-boulette/blob/master/report.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/team-boulette/blob/master/presentation.pdf",
+	  "Video": "",
+	  "Code": "https://github.com/efrei-paris-sud/team-boulette/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+  ]
+}

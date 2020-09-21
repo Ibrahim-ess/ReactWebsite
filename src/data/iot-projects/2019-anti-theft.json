@@ -1,0 +1,18 @@
+{
+  "id": "2019-anti-theft",
+  "title": "2019-anti-theft",
+  "illustration": "/public/data/iot-projects/2019-anti-theft.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/anti-theft/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/anti-theft/blob/master/doc/presentation.pdf",
+	  "Video": "QIStBXq7N3M",
+	  "Code": "https://github.com/efrei-paris-sud/anti-theft/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Hamza Charai",
+      "Mingming Lu",
+      "Jiazhong Yin"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2019-coriolis-effect",
+  "title": "2019-coriolis-effect",
+  "illustration": "/public/data/iot-projects/2019-coriolis-effect.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/coriolis-effect/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/coriolis-effect/blob/master/doc/presentation.pdf",
+	  "Video": "TFp4kmfiozA",
+	  "Code": "https://github.com/institut-galilee/coriolis-effect/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+    "Benhalima Mustapha",
+    "Mokhtari Karim"
+  ]
+}

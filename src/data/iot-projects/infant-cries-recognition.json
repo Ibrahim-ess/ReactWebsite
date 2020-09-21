@@ -1,0 +1,17 @@
+{
+  "id": "infant-cries-recognition",
+  "title": "IoT-Based Device for Infant Cries Recognition",
+  "illustration": "/public/data/iot-projects/infant-cries-recognition.png",
+  "descr": "",
+  "links": {
+	  "PDF": "",
+	  "Slides": "",
+	  "Video": "",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Aomar Osmani",
+      "Massinissa Hamidi"
+  ]
+}

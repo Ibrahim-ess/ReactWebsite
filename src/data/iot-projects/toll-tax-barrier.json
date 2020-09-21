@@ -1,0 +1,16 @@
+{
+  "id": "toll-tax-barrier",
+  "title": "Toll Tax Barrier",
+  "illustration": "/public/data/iot-projects/toll-tax-barrier.png",
+  "descr": "The general idea of this small model is to have an Arduino board that contains a motion sensor and a servo motor in order to control a toll tax barrier.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/toll-tax-barrier/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "zy3GuaxF_mI",
+	  "Code": "https://github.com/institut-galilee/toll-tax-barrier"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Sofiene Benkhemis"
+  ]
+}

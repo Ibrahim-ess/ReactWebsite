@@ -1,0 +1,18 @@
+{
+  "id": "smart-trash",
+  "title": "Smart Trash",
+  "descr": "In the interest of ecology, and to make sorting less tedious, we offer you the Smart-Trash. It will take care of your waste itself!",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/smart-trash/blob/master/docs/I_Report.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/smart-trash/blob/master/docs/I_presentation.pdf",
+	  "Video": "",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Louis-Pierre Kauffman",
+      "Jean-François Lesage",
+      "Etienne Wolf",
+      "Thomas Paris"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "digiscript",
+  "title": "DigiScript",
+  "illustration": "/public/data/iot-projects/digiscript.png",
+  "descr": "Le digiscript est un traducteur de texte, images, vidéos, pour personnes malvoyantes en braille.",
+  "links": {
+	  "PDF": "https://github.com/NicolasDZIURDA/iot-projects/blob/master/Docs/report.pdf",
+	  "Slides": "https://github.com/NicolasDZIURDA/iot-projects/blob/master/Docs/Presentation.pptx",
+	  "Video": "",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Nicolas Dziurda",
+      "Guillaume Jobin",
+      "Thomas Arpin",
+      "Thomas Cornier",
+      "Steve Demeulemeester"
+  ]
+}

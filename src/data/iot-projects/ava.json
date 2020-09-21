@@ -1,0 +1,18 @@
+{
+  "id": "ava",
+  "title": "Eye Truck",
+  "illustration": "/public/data/iot-projects/ava.png",
+  "descr": "A number of accidents happen on large vehicles each year because the drivers don't notice the cars or pedestrians in the blind zone. Our product is a light stuck on the buses or trucks which reminds the driver when pedestrians or cars are in his blind zone.",
+  "links": {
+	  "PDF": "https://github.com/siiscil/iot-projects/blob/master/ava/docs/README.md",
+	  "Slides": "https://github.com/siiscil/iot-projects/blob/master/ava/docs/Eye-Truck%20presentation.pdf",
+	  "Video": "o_OY4E9pPxE",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Vincent Keller",
+      "Antoine Vo",
+      "Zhu Yongyi"
+  ]
+}

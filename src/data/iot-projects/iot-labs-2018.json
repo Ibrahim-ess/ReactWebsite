@@ -1,0 +1,18 @@
+{
+  "id": "iot-labs-2018",
+  "title": "IoT Labs 2018",
+  "illustration": "/public/data/iot-projects/iot-labs-2018.png",
+  "descr": "Lors de ce projet il nous a été demandé de réaliser le code qui permettra de récupérer les données d’un capteur (BME280) dans un microcontrôleur (ESP32) puis de les envoyer via wifi vers un serveur, cette communication sera basée sur la pile LwIP.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/iot_project/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "zUWDZi-1dOQ",
+	  "Code": "https://github.com/institut-galilee/iot_projet"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Romain Carrey",
+      "Magilan Elilthamilvalavan",
+      "Leila Abdelli"
+  ]
+}

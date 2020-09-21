@@ -1,0 +1,60 @@
+.projects {
+  padding-top: 1%;
+  background-color: var(--bg-color);
+  color: var(--font-color);
+  text-decoration: none;
+}
+
+.project-title {
+  font-style: inherit;
+  font-weight: normal;
+  color: var(--primary-color);
+  font-size: 35px;
+}
+
+.project-author {
+  padding-bottom: 8px;
+  font-size: 12px;
+}
+
+.informations-project {
+  display: inline-block;
+  height: 150px;
+}
+
+.project-json {
+  padding-bottom: 2%;
+}
+.project-md {
+  padding-right: 30%;
+  padding-top: 4%;
+}
+
+.project > h1 {
+  // font-size: 2px;
+  color: var(--primary-color);
+}
+
+li {
+  list-style-type: circle;
+}
+
+.project-links {
+  float: left;
+  border: 1px solid #ddd;
+  font-size: 12px;
+  border-radius: 3px;
+  line-height: 1em;
+  padding: 4px;
+  margin-right: 8px;
+  box-sizing: border-box;
+  padding-bottom: 8px;
+}
+
+.video-project {
+  padding-top: 2%;
+  display: inline-block;
+  height: 150px;
+  float: right;
+  padding-right: 20%;
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2019-connected-chair",
+  "title": "2019-connected-chair",
+  "illustration": "",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/connected-chair/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/connected-chair/blob/master/doc/presentation.pptx",
+	  "Video": "",
+	  "Code": "https://github.com/efrei-paris-sud/connected-chair/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Etienne Famery",
+      "Amandhi Kahawita",
+      "Sirine Nouri"
+  ]
+}

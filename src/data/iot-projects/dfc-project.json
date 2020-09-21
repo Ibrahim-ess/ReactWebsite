@@ -1,0 +1,17 @@
+{
+  "id": "dfc-project",
+  "title": "DFC Project",
+  "links": {
+	  "PDF": "",
+	  "Slides": "",
+	  "Video": "s46CjtpGQ0A",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+    "Abdoulaye Gueye",
+    "Ibrahim Diane",
+    "Serigne Babacar Diop",
+    "Mahmoud Hattabi"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2019-power",
+  "title": "2019-power",
+  "illustration": "",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/power/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/power/blob/master/doc/presentation.pdf",
+	  "Video": "",
+	  "Code": "https://github.com/institut-galilee/power/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Jahangir stephane"
+  ]
+}

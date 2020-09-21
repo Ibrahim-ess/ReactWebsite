@@ -1,0 +1,18 @@
+{
+  "id": "2019-galileo-s-internet-of-things",
+  "title": "2019-galileo-s-internet-of-things",
+  "illustration": "/public/data/iot-projects/2019-galileo-s-internet-of-things-2.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/galileo-s-internet-of-things/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/galileo-s-internet-of-things/blob/master/doc/presentation.pdf",
+	  "Video": "jGKLymgVXd0",
+	  "Code": "https://github.com/institut-galilee/galileo-s-internet-of-things/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Simonnet Adrien",
+    "Wu Pierre",
+    "Jeton Alex"
+  ]
+}

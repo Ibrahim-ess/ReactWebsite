@@ -1,0 +1,19 @@
+{
+  "id": "smart-mirror",
+  "title": "Sapio Mirror",
+  "illustration": "/public/data/iot-projects/smart-mirror.png",
+  "descr": "Ces cartes de développement sont très souvent utilisées pour le développement d’objet connecté et sedémocratise de plus en plus dans la création d’objet DIY.",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/Sapio-Mirror/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "jlkdwF_NFnA",
+	  "Code": "https://github.com/efrei-paris-sud/Sapio-Mirror"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Pellier Bastien",
+      "Antoine Dombrecht",
+      "Pierre-Marie Frerot",
+      "Maxime Danguin"
+  ]
+}

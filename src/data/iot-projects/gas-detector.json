@@ -1,0 +1,19 @@
+{
+  "id": "gas-detector",
+  "title": "Gas Detector System",
+  "illustration": "/public/data/iot-projects/gas-detector.png",
+  "descr": "This project features a gas detector system useful for keeping a clean and breathable atmosphere inside home or manufacturing facilities.",
+  "links": {
+	  "PDF": "https://github.com/HamidiMassinissa/hamidimassinissa.github.io/blob/lipn/_iot_projects/2018-04-28-gas-detector-with-arduino.md",
+	  "Slides": "",
+	  "Video": "yiRR3M-8kq8",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Salim Djerroud",
+      "Louiza Aoucheta",
+      "Sonia Abbas",
+      "Tinhinane Mecharek"
+  ]
+}

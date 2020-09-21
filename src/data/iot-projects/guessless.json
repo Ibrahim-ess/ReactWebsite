@@ -1,0 +1,55 @@
+{
+  "id": "guessless",
+  "title": "Guessless Project",
+  "illustration": "/public/data/iot-projects/guessless-design.png",
+  "links": {
+	"PDF": "",
+	"Slides": "",
+	"Video": "KpzQHGrhSvI",
+	"Code": ""
+  },
+  "tags": ["ml", "ai"],
+    "Promotional video :": "(https://www.youtube.com/watch?v=Eu7Z_zg069Q&feature=youtu.be)",
+    "authors": [
+        "Maher LAAROUSSI",
+        "Aboubakr CHOUTTA",
+        "Hamid OUFKIR",
+        "Othmane MCHOUAT"
+    ],
+    "Membres:": [
+      "Maher LAAROUSSI (maher.laaroussi@gmail.com) [MaherLRS](https://github.com/maherlaaroussi \"maherlaaroussi\")",
+      "Aboubakr CHOUTTA (achoutta@gmail.com)  [aboubakrCH](https://github.com/aboubakrCH \"aboubakrCH\")",
+      "Hamid OUFKIR (hamid.oufkir@yahoo.com) [HamidOuF](https://github.com/HamidOuF \"HamidOuF\")",
+      "Othmane MCHOUAT (mchouat.o@gmail.com)  [othmaneMCHOUAT](https://github.com/othmaneMCHOUAT \"othmaneMCHOUAT\")"
+    ],
+    "Nom du produit IoT : Guessless": "![alt text](https://github.com/institut-galilee/guessless/blob/master/docs/Design.png)",
+    "abstract": "Une table connect\u00e9e \u00e0 mettre partout dans la maison, qui permet de reconnaitre n'importe quel objet en cas de trou de m\u00e9moire.  \nDans la cuisine, elle vous fournira toute information essentielle sur un aliment pour ainsi manger plus sainement.  \nEnvie d'avoir une description d\u00e9taill\u00e9e sur un objet ? posez-le sur la table ! Comment \u00e7a marche ? Le principe est simple, il suffit de poser un objet sur la surface plexiglass au dessus du panneau LED pour que la table commence sa d\u00e9t\u00e9ction, une animation vous le notifiera. Une fois la reconnaissance termin\u00e9e, le r\u00e9sultat s'affichera sur l'\u00e9cran se trouvant \u00e0 cot\u00e9 du panneau.  \nVous pourrez afficher plus d'information en appuyant sur le bouton \"Plus\" de l'\u00e9cran.",
+    "Est-ce que \u00e7a marche ?": "Pour l'instant, le projet est en cours de conception mais on vous tiendra au courant de son avancement.",
+    "Dans le futur ?": "Plusieurs am\u00e9liorations sont pr\u00e9vues pour notre table comme la reconnaissance vocale, la comparaison de deux aliments et l'apairage avec un smartphone.",
+    "Help ?": {
+      "Comment lancer l'application ?": "L'application, pour l'instant, se situe dans le r\u00e9pertoire `tensorflow/models/research/object_detection/`."
+    },
+    "Aspects techniques :": {
+      "Reconnaissance d'objet : Tensorflow": "Tensorflow a \u00e9t\u00e9 compil\u00e9 depuis le code source a cause des probl\u00e8mes renconr\u00e9 en l'installant avec la commande `sudo pip3 install tensorflow`.",
+      "Interface graphique de l'application : PyQt5": "L'application qui permet de controller la table sera cod\u00e9 avec la librairie PyQt5 en Python."
+    },
+    "hardware": [
+      "Matrix LED RGB 64x32 Panel",
+      "Raspberry Pi Zero WH",
+      "Raspberry Pi Zero 3 B+",
+      "1x Cam\u00e9ra Raspberry Pi",
+      "2x Power supply (Raspberry & LED Panel)",
+      "C\u00e2bles & fils",
+      "Plaque Plexiglass",
+      "Balance",
+      "2x Haut-Parleurs",
+      "Touchscreen display 7\""
+    ],
+    "Cr\u00e9dits :": [
+      "http://blog.deconinck.info/post/2016/12/19/A-Dirt-Cheap-F-Awesome-Led-Table (L'origine de notre projet)",
+      "https://www.youtube.com/watch?v=npZ-8Nj1YwY (Mise en place de ProtoBuffer, OpenCV et Tensorflow sur un Raspberry)",
+      "https://github.com/EdjeElectronics (Compr\u00e9hension de comment Tensorflow fonctionne)",
+      "https://github.com/hzeller/rpi-rgb-led-matrix (Librairie pour la manipulation du panneau led)",
+      "https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md (Mod\u00e8le utilis\u00e9 pour la reconnaissance d'objet)"
+    ]
+  }

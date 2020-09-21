@@ -1,0 +1,109 @@
+.c-homepage {
+  margin: 0 5% 5% 5%;
+
+  &__contact {
+    padding-left: 300px;
+  }
+
+  &__name {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+
+  &__name::before,
+  &__name::after {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid #11a8be;
+  }
+  &__name::before {
+    margin-right: 0.55em;
+  }
+  &__name::after {
+    margin-left: 0.55em;
+  }
+
+  &__links {
+    float: left;
+    width: 30px;
+    padding-right: 25px;
+    vertical-align: middle;
+  }
+
+  &__text {
+    float: left;
+    margin-top: 0px;
+    padding-right: 25px;
+  }
+
+  &__textfin {
+    margin-top: 0px;
+    padding-right: 25px;
+  }
+
+  &__image {
+    float: left;
+    width: 150%;
+    border-radius: 10px 10px 10px 10px;
+  }
+}
+
+div#image {
+  float: left;
+  padding-right: 120px;
+  border-radius: 10px 10px 10px 10px;
+  width: 170px;
+}
+
+div#informations {
+  padding-right: 50px;
+}
+
+#informations a {
+  text-decoration:none;
+}
+
+div#previews {
+  display: flex;
+}
+
+div#research {
+  padding-right: 50px;
+  float: left;
+  width: 300px;
+}
+
+div#publications {
+  padding-right: 50px;
+  float: left;
+  width: 300px;
+}
+
+div#teaching {
+  float: left;
+  width: 300px;
+}
+
+.divider {
+  width: 2px;
+  background-color: #11a8be;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: auto;
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+.links-next {
+  text-decoration: none;
+}
+
+.links-next p {
+  text-decoration: none;
+  transition: all 0.30s linear;
+  border-radius: 5px;
+  padding: 3px 4px 3px 4px;
+  width : 60px;
+}
+

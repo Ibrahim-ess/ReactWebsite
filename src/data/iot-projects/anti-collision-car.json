@@ -1,0 +1,16 @@
+{
+  "id": "anti-collision-car",
+  "title": "Voiture Anti-Collision",
+  "illustration": "/public/data/iot-projects/anti-collision-car.png",
+  "descr": "Le but de ce projet est de réaliser un premier robot radar qui va être capable de cartographier une zone. De plus le radar doit pouvoir se déplacer. En effet, si le radar peut se déplacer alors il pourra recouvrir une plus grande surface.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/anti-collision-car/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "Z7mCfOH_jnA",
+	  "Code": "https://github.com/institut-galilee/anti-collision-car"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Abdelkader Moussa"
+  ]
+}

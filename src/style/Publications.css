@@ -1,0 +1,68 @@
+.publication {
+  margin: 60px 0;
+}
+
+.content {
+  padding-left: 38%;
+}
+
+.content > h1 {
+  font-size: 40px;
+  font-weight: 450;
+}
+
+.content .years {
+  display: inline-block;
+  padding-right: 5%;
+  padding-bottom: 3%;
+  cursor: pointer;
+}
+
+ .year {
+  border-bottom: 2px solid white;
+  border-radius: 4px;
+}
+
+.publi h2 {
+  font-size: 30px;
+  font-weight: 500;
+  padding: 6px;
+}
+
+.publication-content {
+  font-size: 15px;
+  padding-bottom: 8%;
+  padding-top: 1%;
+  font-weight: 350;
+}
+
+.publication-content p {
+  margin: 0;
+}
+
+.publication-content .booktitle {
+  margin-top: 3%;
+}
+
+.publication-content .title {
+  font-style: italic;
+  font-weight: 500;
+}
+
+.publication-content .links {
+  padding: 4% 0 0 50%;
+}
+
+.links p {
+  display: inline;
+  text-align: right;
+  margin-right: 2%;
+}
+
+.links a {
+  text-decoration: none;
+  border: 0.5px solid white;
+  border-radius: 5px;
+  color: red;
+  padding: 3px 4px 3px 4px;
+}

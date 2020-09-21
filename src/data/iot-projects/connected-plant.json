@@ -1,0 +1,19 @@
+{
+  "id": "connected-plant",
+  "title": "Connected Plant",
+  "illustration": "/public/data/iot-projects/connected-plant.png",
+  "descr": "For this project, we created a system to take care of different kind of plants via the transmission of humidity data coming from the ground.",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/connected-plant/blob/master/connected-plant.pdf",
+	  "Slides": "",
+	  "Video": "Yb93waFIego",
+	  "Code": "https://github.com/efrei-paris-sud/connected-plant"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Shad Mackongo",
+      "Dalil Beldjilali",
+      "Sasha Connier",
+      "Caroline Chiale"
+  ]
+}

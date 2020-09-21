@@ -1,0 +1,32 @@
+{
+  "id": "immersion",
+  "title": "Immersion_projects",
+  "illustration": "/public/data/iot-projects/immersion.png",
+  "links": {
+	"PDF": "",
+	"Slides": "",
+	"Video": "F6XeG3sRFKY",
+	"Code": ""
+  },
+  "topics": ["ml", "ai"],
+  "authors": [
+      "Heba Kaddouh",
+      "Mohamed Ben Saad",
+      "Jessy Colombo",
+      "Khalid Barakat"
+  ],
+  "Immersion_projects": {
+    "TEAM MEMBRES :": [
+      "Name: Heba Kaddouh [Hebakaddouh](https://github.com/Hebakaddouh)\nEmail : heba.kaddouh@gmail.com",
+      "Name: Mohamed Ben Saad [Mohaabenz](https://github.com/Mohaabenz)\nEmail : bensaad.mohamedamine@gmail.com",
+      "Name: Jessy Colombo [Greyman93](https://github.com/Greyman93)\nEmail : jessy.colombo31@gmail.com",
+      "Name: Khalid Barakat [Giitto](https://github.com/Giitto)\nEmail : bckhalid@hotmail.fr"
+    ],
+    "Name products : Set-up Immersion 3.5D;": ""
+  },
+   "abstract": "LED : Il s'agit d'une bande LED connect\u00e9e \u00e0 votre smartphone en bluetooth que vous pourrez contr\u00f4ler \u00e0 votre guise. \nMais la particularit\u00e9 de cette bande est son mode immersif : Elle s'adaptera automatiquement aux couleurs pr\u00e9dominantes,\nque ce soit pour un jeu video, un film ou juste une image, l'exp\u00e9rience est garantie. Fauteuil: Pour le moment, il s'agit d'une \u00e9volution du set-up qui permettrait une meilleure immersion quelque soit l'action. \nPour cela deux enceintes connect\u00e9es \u00e0 votre p\u00e9riph\u00e9rique en bluetooth ou en filaire ammeneront le son au plus proche de soit. \nAux cot\u00e9es de ces enceintes, nous allons int\u00e9grer des capteurs sonores li\u00e9s \u00e0 notre ESP32 qui permettront d'analyser le son. \nApr\u00e8s analyse, des vibrations seront activ\u00e9 en fonction de l'action. Par exemple, si le bruit d'un balle de pistolet est entendu, \nles moteurs vibrants situ\u00e9s sur le dos de la chaise s'activeronts. Application : L'application permettra de contr\u00f4ler la bande LED. Elle pourra allumer ou \u00e9teindre la bande, activer les differents modes de \n\ncelle-ci, augmenter ou diminuer la lumi\u00e8re ou bien changer la couleur de la bande.\n\nEn fonction de l'avancement du projet, nous pourrons ajouter d'autres am\u00e9lioration, options, composant et objets connect\u00e9s sur notre set-up",
+    "Composants :": [
+      "LED : ESP32, BANDE LED, Capteurs couleur de lumi\u00e8re, cable USB, kit de connection (fil) ;",
+      "Fauteuil : housse massage ou moteurs vibrants, enceinte bluetooth, ESP32, capteurs sonores; "
+    ]
+}

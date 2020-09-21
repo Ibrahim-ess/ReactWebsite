@@ -1,0 +1,18 @@
+{
+  "id": "2019-dam",
+  "title": "2019-dam",
+  "illustration": "/public/data/iot-projects/2019-dam-2.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/dam/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/dam/blob/master/doc/presentation.pdf",
+	  "Video": "xN-VRjuBtvQ",
+	  "Code": "https://github.com/institut-galilee/dam/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Benabed Djahida",
+      "Kessaï Aghilas",
+      "Sanvee Myriam"
+  ]
+}

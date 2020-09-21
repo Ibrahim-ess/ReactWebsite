@@ -1,0 +1,18 @@
+{
+  "id": "2019-hello-water",
+  "title": "2019-hello-water",
+  "illustration": "/public/data/iot-projects/2019-hello-water.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/hello-water/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/hello-water/blob/master/doc/presentation.pdf",
+	  "Video": "8Uj7ILCjqS0",
+	  "Code": "https://github.com/efrei-paris-sud/hello-water/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "LI YING",
+      "MI YAOLI",
+      "ZHU YANWU"
+  ]
+}

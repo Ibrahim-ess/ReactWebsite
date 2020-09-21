@@ -1,0 +1,63 @@
+{
+  "Osmani":{
+    "attributes":[
+        "Duplexque isdem diebus acciderat malum, quod et Theophilum insontem atrox interceperat casus, et Serenianus dignus exsecratione cunctorum, innoxius, modo non reclamante publico vigore, discessit."
+    ],
+    "image": "Osmani.png",
+    "name":"Aomar Osmani",
+    "links":[
+      [
+        "email.png",
+        "Email",
+        ""
+      ],
+      [
+        "github.png",
+        "Github",
+        ""
+      ],
+      [
+        "linkedin.png",
+        "Linkedin",
+        ""
+      ] 
+    ],
+    "previews": [
+      
+        "Iam virtutem ex consuetudine vitae sermonisque nostri interpretemur nec eam, ut quidam docti, verborum magnificentia metiamur virosque bonos.",
+        "Iam virtutem ex consuetudine vitae sermonisque nostri interpretemur nec eam, ut quidam docti, verborum magnificentia metiamur virosque bonos.",
+        "Iam virtutem ex consuetudine vitae sermonisque nostri interpretemur nec eam, ut quidam docti, verborum magnificentia metiamur virosque bonos."
+    ]
+  },
+
+  "Hamidi":{
+    "attributes":[
+      [
+        "Ph.D. candidate in Computer Science, 2020, Sorbonne Paris Cité",
+        "M.S. in Computer Science - Programming Languages, June 2017, Paris Diderot",
+        "Senior Lecturer, Sorbonne Paris Cité ect.."
+      ]
+    ],
+    "image":"src={require(/public/members/massinissaHamidi.jpeg)}",
+    "name":"Massinissa Hamidi",
+    "links":[
+      [
+        "email : ",
+        "massinissa.hamidi@lipn.univ-paris13.fr"
+      ],
+      [
+        "github : ",
+        ""
+      ],
+      [
+        "linkedin : ",
+        ""
+      ]
+    ],
+    "previews": [
+        "................",
+        "................",
+        "................"
+    ]
+  }
+}

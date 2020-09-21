@@ -1,0 +1,77 @@
+html {
+  height: 100.1%; /*pour toujours afficher la scrollbar et eviter le décalage de la page lorsque la page est petite en hauteur*/
+}
+.link-descr {
+  text-decoration: none;
+}
+
+.project {
+  margin: 10px 20px 30px 10px;
+  width: 27%;
+  height: 200px;
+  box-shadow: 0 2px 4px 1px rgba(153, 140, 140, 0.2);
+  font-size: 14px;
+  font-weight: 350;
+  display: inline-flex;
+  background-color: #1a1b1d;
+}
+
+.project:hover {
+  box-shadow: 0 8px 16px 4px rgba(236, 217, 217, 0.2);
+}
+
+.project:hover {
+  transform: scale(1.07);
+  transition: all 0.2s;
+  transition: all 0.2s ease;
+}
+
+.project .description {
+  padding: 15px 8px 0 15px;
+  width: 180px;
+}
+
+.project p {
+  margin: 0;
+  font-size: 13.5px;
+}
+
+.project .illustration img {
+  width: 90px;
+  height: 200px;
+  object-fit: cover;
+  float: right;
+}
+
+.project .booktitle {
+  margin-top: 3%;
+  font-style: italic;
+}
+
+.project .title {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.project .links {
+  margin-top: 8%;
+}
+
+.links p {
+  display: inline;
+  margin-right: 2%;
+}
+
+.links a {
+  text-decoration: none;
+  border: 0.5px solid white;
+  border-radius: 5px;
+  color: rgb(122, 120, 120);
+  padding: 3px 4px 3px 4px;
+  font-size: 12.5px;
+}
+
+.links a:hover {
+  color: white;
+}

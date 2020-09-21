@@ -1,0 +1,17 @@
+{
+  "id": "2019-make-tomorrow-better",
+  "title": "2019-make-tomorrow-better",
+  "illustration": "",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/MakeTomorrowBetter/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/MakeTomorrowBetter/blob/master/doc/presentation.pdf",
+	  "Video": "",
+	  "Code": "https://github.com/efrei-paris-sud/MakeTomorrowBetter/tree/master/src/"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Hatem Benhlal",
+      "Emna Touihri"
+  ]
+}

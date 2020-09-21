@@ -1,0 +1,18 @@
+{
+  "id": "shl-to-platform",
+  "title": "IoT-Platform Support for the SHL Dataset",
+  "illustration": "/public/data/iot-projects/extended-shl.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/DataLogger/blob/master/Report.md",
+	  "Slides": "",
+	  "Video": "",
+	  "Code": "https://github.com/institut-galilee/DataLogger"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Maher Laaroussi",
+      "Mohammed Bensaad",
+      "Khalid Barakat"
+  ]
+}

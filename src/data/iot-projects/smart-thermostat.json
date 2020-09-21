@@ -1,0 +1,17 @@
+{
+  "id": "smart-thermostat",
+  "title": "Smart Thermostat",
+  "illustration": "/public/data/iot-projects/smart-thermostat.png",
+  "descr": "Notre objectif est donc de mettre en place un système qui permettra d’automatiser les réglages du chauffage selon la température.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/smart-thermostat/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "K-egIbBT7dM",
+	  "Code": "https://github.com/institut-galilee/smart-thermostat"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Augustin Wagane VARORE",
+      "Amadou DIA"
+  ]
+}

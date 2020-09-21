@@ -1,0 +1,18 @@
+{
+  "id": "baby-phone",
+  "title": "Baby Phone",
+  "descr": "L'objectif de Bébé Tranquille est de fournir un dispositif technique de couplage asservi entre les parents et leur enfant nouveau-né, à titre expérimental seulement, afin de faciliter la vie des parents.",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/baby-phone/blob/master/docs/l_report.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/baby-phone/blob/master/docs/l_Pr%C3%A9sentation.pdf",
+	  "Video": "",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Tristan Le bras",
+      "Alexandre Dequeker",
+      "Alexandre Fieux",
+      "Anthony Morali"
+  ]
+}

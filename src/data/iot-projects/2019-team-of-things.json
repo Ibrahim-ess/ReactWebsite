@@ -1,0 +1,18 @@
+{
+  "id": "2019-team-of-things",
+  "title": "2019-team-of-things",
+  "illustration": "/public/data/iot-projects/2019-team-of-things.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/team-of-things/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/team-of-things/blob/master/doc/presentation.pdf",
+	  "Video": "OkaeQZyURFE",
+	  "Code": "https://github.com/efrei-paris-sud/team-of-things/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Thomas Deffradas",
+      "Xavier Tcheupi-Kamga",
+      "Kevin Wong"
+  ]
+}

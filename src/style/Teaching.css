@@ -1,0 +1,83 @@
+html {
+  height: 100.1%; /*pour toujours afficher la scrollbar et eviter le décalage de la page lorsque la page est petite en hauteur*/
+}
+
+.teaching {
+  margin: 60px 0;
+}
+
+.content {
+  padding-left: 38%;
+}
+
+.content > h1 {
+  font-size: 40px;
+  font-weight: 450;
+}
+
+.content .years {
+  display: inline-block;
+  padding-right: 2%;
+  padding-bottom: 3%;
+  cursor: pointer;
+}
+
+.content .year {
+  display: inline-block;
+}
+
+.publi h2 {
+  font-size: 25px;
+  font-weight: 500;
+  padding: 4px;
+}
+
+.teaching-content {
+  padding: 10px 20px 40px 15px;
+  margin: 10px 20px 30px 10px;
+  width: 40%;
+  box-shadow: 0 2px 4px 1px rgba(153, 140, 140, 0.2);
+  font-size: 14px;
+  font-weight: 350;
+  display: inline-block;
+}
+
+.teaching-content:hover {
+  box-shadow: 0 8px 16px 4px rgba(153, 140, 140, 0.2);
+  transform: scale(1.02);
+  transition: all 0.2s;
+  transition: all 0.2s ease;
+}
+
+.teaching-content p {
+  margin: 0;
+  font-size: 13.5px;
+}
+
+.teaching-content .booktitle {
+  margin-top: 3%;
+  font-style: italic;
+}
+
+.teaching-content .title {
+  text-decoration: underline;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+.teaching-content .links {
+  padding: 4% 0 0 50%;
+}
+
+.links p {
+  display: inline;
+  text-align: right;
+  margin-right: 2%;
+}
+
+.links a {
+  text-decoration: none;
+  border: 0.5px solid white;
+  border-radius: 5px;
+  padding: 3px 4px 3px 4px;
+}

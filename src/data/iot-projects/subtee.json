@@ -1,0 +1,20 @@
+{
+  "id": "subtee",
+  "title": "SubBag by Daverlabs",
+  "illustration": "/public/data/iot-projects/subtee.png",
+  "descr": "Have ever be in the situation when you cannot talk to someone because they are speaking another language ? With Subtee, we're breaking this barrier by making subtitles directly on your shirt.",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/subtee/blob/master/docs/report.pdf",
+	  "Slides": "",
+	  "Video": "nFNjeitnJZE",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Nathan Kremer",
+      "Sabri M'barki",
+      "Zixuan Li",
+      "Thomas Cardonne",
+      "Kinh-Vinh Tran"
+  ]
+}

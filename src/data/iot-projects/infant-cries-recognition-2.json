@@ -1,0 +1,17 @@
+{
+  "id": "infant-cries-recognition-2",
+  "title": "Deep Learning-Based Infant Cries Recognition",
+  "illustration": "/public/data/iot-projects/cries-analysis-pipeline.png",
+  "descr": "",
+  "links": {
+	  "PDF": "",
+	  "Slides": "",
+	  "Video": "",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Massinissa Hamidi",
+      "Aomar Osmani"
+  ]
+}

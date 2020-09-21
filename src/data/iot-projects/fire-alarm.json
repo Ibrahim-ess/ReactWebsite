@@ -1,0 +1,17 @@
+{
+  "id": "fire-alarm",
+  "title": "Fire Alarm",
+  "illustration": "/public/data/iot-projects/fire-alarm.png",
+  "descr": "Le but de notre projet est alors de construire une alarme à feu connectée via Ethernet afin d'éviter un incendie ou encore de se protéger contre les dangers liés aux appareils électriques défaillants ou des blocs de prises surchargés.",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/fire-alarm/blob/master/report.pdf",
+	  "Slides": "",
+	  "Video": "ko2ecRQjeY0",
+	  "Code": "https://github.com/institut-galilee/fire-alarm"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Ayoub Afrass",
+      "Alpha 1 Bah mamadou"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2019-pangolin",
+  "title": "2019-pangolin",
+  "illustration": "/public/data/iot-projects/2019-pangolin-2.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/pangolin/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/pangolin/blob/master/doc/presentation.pdf",
+	  "Video": "clUfnJtiwXw",
+	  "Code": "https://github.com/efrei-paris-sud/pangolin/tree/master/src/"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Jean-François Le Gal",
+      "Charlotte Gex",
+      "Arthur Maigrot",
+      "Tom Chemaly"
+  ]
+}

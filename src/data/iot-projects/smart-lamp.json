@@ -1,0 +1,16 @@
+{
+  "id": "smart-lamp",
+  "title": "Smart Lamp",
+  "links": {
+	  "PDF": "https://github.com/efrei-paris-sud/smart-lamp/blob/master/docs/PROJ_FINAL_REPORT.pdf",
+	  "Slides": "https://github.com/efrei-paris-sud/smart-lamp/blob/master/docs/IoT_Presentation.pptx",
+	  "Video": "",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Yudong Sun",
+      "Jianyi Kang",
+      "Kamal Miri"
+  ]
+}

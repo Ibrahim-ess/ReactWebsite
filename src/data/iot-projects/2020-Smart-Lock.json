@@ -1,0 +1,18 @@
+{
+  "id": "2020-Smart-Lock",
+  "title": "2020-Smart-Lock",
+  "illustration": "/public/data/iot-projects/2020-Smart-Lock.png",
+  "descr": "",
+  "links": {
+	  "PDF": "https://github.com/institut-galilee/2020-Smart-Lock/blob/master/doc/report.pdf",
+	  "Slides": "https://github.com/institut-galilee/2020-Smart-Lock/blob/master/doc/presentation.pdf",
+	  "Video": "krarxLyfjm4",
+	  "Code": "https://github.com/institut-galilee/2020-Smart-Lock/tree/master/src"
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+      "Aïssata KEITA",
+      "Michel Davel YABA BILONGO",
+      "Abdeldjalil KOUACHI"
+  ]
+}
